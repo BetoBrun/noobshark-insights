@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-05-27T18:07:33.903106+00:00",
+  "updated_at_brt": "27/05/2026 15:07",
+  "headline": "Dados indisponíveis no momento",
+  "executive_summary": "O script não conseguiu atualizar as fontes. Erro: não foi possível obter preços suficientes",
+  "traffic_light": {
+    "color": "yellow",
+    "label": "Amarelo",
+    "text": "Falha de dados. Não tomar decisão com base nesta leitura."
+  },
+  "model_posture": "Dados insuficientes",
+  "market_regime": "Indefinido",
+  "btc_regime": "Indefinido",
+  "altseason_regime": "Indefinido",
+  "scores": {
+    "global_risk": 50,
+    "btc_cycle": 50,
+    "altseason_window": 50,
+    "tech_correlation": 0
+  },
+  "correlations": {
+    "window": 30,
+    "current": {},
+    "series": []
+  },
+  "markets": {},
+  "fear_greed": null,
+  "insights": [
+    {
+      "title": "Falha de atualização",
+      "text": "Verifique logs do GitHub Actions e conectividade das fontes."
+    }
+  ]
+}

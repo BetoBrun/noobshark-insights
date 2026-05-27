@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Histórico - NoobShark Insights</title>
+  <meta name="description" content="Histórico do dashboard executivo de mercado." />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-brand">
+      <span class="eyebrow">NoobShark Research</span>
+      <h1>Insights</h1>
+    </div>
+    <nav class="topbar-nav">
+      <a href="./index.html">Dashboard</a>
+      <a href="./history.html" class="active">Histórico</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>Histórico<br>do Modelo</h2>
+    </section>
+
+    <div class="panel">
+      <div class="panel-header">
+        <p class="eyebrow">Data Log</p>
+        <h2>Registro de Sinais</h2>
+      </div>
+      
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Data (BRT)</th>
+              <th>Semáforo</th>
+              <th>Global Risk</th>
+              <th>BTC Cycle</th>
+              <th>Altseason Window</th>
+              <th>BTC Price (USD)</th>
+            </tr>
+          </thead>
+          <tbody id="historyTable">
+            <!-- Rendered by app.js -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <footer>
+      <strong>Aviso Legal:</strong> Este material possui caráter puramente educacional e informativo. O NoobShark Insights não faz recomendação financeira, de compra ou venda de qualquer ativo.
+    </footer>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

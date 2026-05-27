@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NoobShark Insights</title>
+  <meta name="description" content="Dashboard executivo de mercado para BTC, macro e altcoins." />
+  
+  <!-- Fonts: Inter and JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-brand">
+      <span class="eyebrow">NoobShark Research</span>
+      <h1>Insights</h1>
+    </div>
+    <nav class="topbar-nav">
+      <a href="./index.html" class="active">Dashboard</a>
+      <a href="./history.html">Histórico</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>Global<br>Macro<br>Exec</h2>
+      <div class="header-card">
+        <span id="updatedAt">Atualizando...</span>
+        <strong id="modelPosture">Modelo</strong>
+      </div>
+    </section>
+
+    <!-- Asymmetric 70/30 Grid Layout -->
+    <div class="dashboard-grid">
+      
+      <!-- Main Content (Left) -->
+      <div class="dashboard-main">
+        
+        <!-- Score Cards Grid -->
+        <div class="score-grid">
+          <div class="score-card panel">
+            <p>Global Risk</p>
+            <strong id="globalRisk">—</strong>
+            <span id="globalRiskLabel">—</span>
+          </div>
+          <div class="score-card panel">
+            <p>BTC Cycle</p>
+            <strong id="btcCycle">—</strong>
+            <span id="btcCycleLabel">—</span>
+          </div>
+          <div class="score-card panel">
+            <p>Alt Window</p>
+            <strong id="altseason">—</strong>
+            <span id="altseasonLabel">—</span>
+          </div>
+          <div class="score-card panel">
+            <p>Tech Corr</p>
+            <strong id="techCorr">—</strong>
+            <span id="techCorrLabel">—</span>
+          </div>
+        </div>
+
+        <!-- Correlations Panel -->
+        <div class="panel">
+          <div class="panel-header">
+            <p class="eyebrow">Rolling 30D</p>
+            <h2>Correlações Macro</h2>
+          </div>
+          <canvas id="correlationChart" height="100"></canvas>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Referência</th>
+                  <th>Correlação</th>
+                  <th>Leitura</th>
+                </tr>
+              </thead>
+              <tbody id="correlationTable"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Feed Panel -->
+        <div class="panel">
+          <div class="panel-header">
+            <p class="eyebrow">Sinais e Alertas</p>
+            <h2>Insights do Modelo</h2>
+          </div>
+          <div id="insightsFeed" class="feed"></div>
+        </div>
+      </div>
+
+      <!-- Sidebar Content (Right) -->
+      <div class="dashboard-sidebar">
+        
+        <!-- Decision Semáforo -->
+        <div class="decision-card panel" id="decisionCard">
+          <p class="eyebrow">Semáforo de Decisão</p>
+          <div class="traffic-row">
+            <span class="traffic-dot" id="trafficDot"></span>
+            <h2 id="trafficLabel">—</h2>
+          </div>
+          <p id="trafficText">Carregando leitura executiva...</p>
+          <div class="mini-tags" id="regimeTags"></div>
+        </div>
+
+        <!-- Executive Summary -->
+        <div class="panel executive-card">
+          <p class="eyebrow">Leitura Executiva</p>
+          <h2 id="headline" style="font-size: 1.25rem; margin-bottom: 12px; line-height: 1.3;">—</h2>
+          <p id="executiveSummary" style="color: var(--text-muted); line-height: 1.5;">Carregando...</p>
+        </div>
+
+        <!-- Market Snapshot -->
+        <div class="panel">
+          <div class="panel-header">
+            <p class="eyebrow">Snapshots</p>
+            <h2>Mercados</h2>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <tbody id="marketGrid"></tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <footer>
+      <strong>Aviso Legal:</strong> Este material possui caráter puramente educacional e informativo. O NoobShark Insights não faz recomendação financeira, de compra ou venda de qualquer ativo.
+    </footer>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
