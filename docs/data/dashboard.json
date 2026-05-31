@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T14:08:31.899458+00:00",
-  "updated_at_brt": "31/05/2026 11:08",
+  "updated_at": "2026-05-31T16:21:32.094630+00:00",
+  "updated_at_brt": "31/05/2026 13:21",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -14,18 +14,18 @@
   "altseason_regime": "Altcoins em preparação",
   "scores": {
     "global_risk": 59.0,
-    "btc_cycle": 37.0,
+    "btc_cycle": 36.0,
     "altseason_window": 54.0,
-    "tech_correlation": 0.1754
+    "tech_correlation": 0.1777
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.1985,
-      "SPX": 0.2763,
-      "DXY": -0.1396,
-      "NASDAQ": 0.2534,
-      "IGV": -0.0034
+      "GOLD": 0.1984,
+      "SPX": 0.2784,
+      "DXY": -0.1388,
+      "NASDAQ": 0.2556,
+      "IGV": -0.001
     },
     "series": [
       {
@@ -1302,30 +1302,30 @@
       },
       {
         "date": "2026-05-31",
-        "gold": 0.1985,
-        "spx": 0.2763,
-        "dxy": -0.1396,
-        "nasdaq": 0.2534,
-        "igv": -0.0034
+        "gold": 0.1984,
+        "spx": 0.2784,
+        "dxy": -0.1388,
+        "nasdaq": 0.2556,
+        "igv": -0.001
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 73715.75,
-      "change_7d_pct": -4.61,
-      "change_30d_pct": -6.28,
-      "change_90d_pct": 7.94,
-      "ma_200": 79523.27
+      "last": 73519.97,
+      "change_7d_pct": -4.87,
+      "change_30d_pct": -6.53,
+      "change_90d_pct": 7.65,
+      "ma_200": 79522.29
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 2017.35,
-      "change_7d_pct": -4.45,
-      "change_30d_pct": -12.9,
-      "change_90d_pct": 1.74,
-      "ma_200": 2497.48
+      "last": 2006.04,
+      "change_7d_pct": -4.99,
+      "change_30d_pct": -13.39,
+      "change_90d_pct": 1.17,
+      "ma_200": 2497.42
     },
     "GOLD": {
       "name": "Ouro",
