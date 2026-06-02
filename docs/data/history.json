@@ -421,5 +421,14 @@
     "altseason_window": 51.0,
     "tech_correlation": 0.1593,
     "btc_price": 67351.1
+  },
+  {
+    "date": "02/06/2026 20:59",
+    "traffic_light": "Amarelo",
+    "global_risk": 50,
+    "btc_cycle": 50,
+    "altseason_window": 50,
+    "tech_correlation": 0,
+    "btc_price": null
   }
 ]
