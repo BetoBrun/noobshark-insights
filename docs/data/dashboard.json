@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T14:22:04.537398+00:00",
-  "updated_at_brt": "13/06/2026 11:22",
+  "updated_at": "2026-06-13T16:42:28.086484+00:00",
+  "updated_at_brt": "13/06/2026 13:42",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,16 +16,16 @@
     "global_risk": 47.0,
     "btc_cycle": 25.0,
     "altseason_window": 45.0,
-    "tech_correlation": 0.3705
+    "tech_correlation": 0.3708
   },
   "correlations": {
     "window": 30,
     "current": {
       "GOLD": 0.3424,
-      "SPX": 0.4304,
-      "DXY": -0.4481,
-      "NASDAQ": 0.4517,
-      "IGV": 0.2294
+      "SPX": 0.4307,
+      "DXY": -0.4483,
+      "NASDAQ": 0.452,
+      "IGV": 0.2296
     },
     "series": [
       {
@@ -1303,29 +1303,29 @@
       {
         "date": "2026-06-13",
         "gold": 0.3424,
-        "spx": 0.4304,
-        "dxy": -0.4481,
-        "nasdaq": 0.4517,
-        "igv": 0.2294
+        "spx": 0.4307,
+        "dxy": -0.4483,
+        "nasdaq": 0.452,
+        "igv": 0.2296
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 64070.46,
-      "change_7d_pct": 1.31,
-      "change_30d_pct": -18.97,
-      "change_90d_pct": -14.41,
-      "ma_200": 77768.13
+      "last": 64025.65,
+      "change_7d_pct": 1.24,
+      "change_30d_pct": -19.02,
+      "change_90d_pct": -14.47,
+      "ma_200": 77767.91
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1677.39,
-      "change_7d_pct": -0.53,
-      "change_30d_pct": -24.56,
-      "change_90d_pct": -28.66,
-      "ma_200": 2414.4
+      "last": 1673.46,
+      "change_7d_pct": -0.77,
+      "change_30d_pct": -24.73,
+      "change_90d_pct": -28.82,
+      "ma_200": 2414.38
     },
     "GOLD": {
       "name": "Ouro",
