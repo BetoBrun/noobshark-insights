@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T16:44:36.009538+00:00",
-  "updated_at_brt": "20/06/2026 13:44",
+  "updated_at": "2026-06-20T18:43:34.811247+00:00",
+  "updated_at_brt": "20/06/2026 15:43",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -13,19 +13,19 @@
   "btc_regime": "BTC defensivo",
   "altseason_regime": "Altcoins em preparação",
   "scores": {
-    "global_risk": 46.0,
-    "btc_cycle": 28.0,
+    "global_risk": 45.0,
+    "btc_cycle": 29.0,
     "altseason_window": 46.0,
-    "tech_correlation": 0.2654
+    "tech_correlation": 0.3701
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.3805,
-      "SPX": 0.2746,
-      "DXY": -0.4653,
-      "NASDAQ": 0.2895,
-      "IGV": 0.232
+      "GOLD": 0.2795,
+      "SPX": 0.4111,
+      "DXY": -0.4123,
+      "NASDAQ": 0.4289,
+      "IGV": 0.2702
     },
     "series": [
       {
@@ -1278,54 +1278,54 @@
       },
       {
         "date": "2026-06-17",
-        "gold": 0.338,
-        "spx": 0.3826,
-        "dxy": -0.3716,
-        "nasdaq": 0.412,
-        "igv": 0.2493
+        "gold": 0.3203,
+        "spx": 0.4214,
+        "dxy": -0.4408,
+        "nasdaq": 0.4393,
+        "igv": 0.2761
       },
       {
         "date": "2026-06-18",
-        "gold": 0.4121,
-        "spx": 0.3007,
-        "dxy": -0.4722,
-        "nasdaq": 0.3126,
-        "igv": 0.2409
+        "gold": 0.2842,
+        "spx": 0.4295,
+        "dxy": -0.4663,
+        "nasdaq": 0.4453,
+        "igv": 0.2784
       },
       {
         "date": "2026-06-19",
-        "gold": 0.3814,
-        "spx": 0.2779,
-        "dxy": -0.4615,
-        "nasdaq": 0.2914,
-        "igv": 0.2276
+        "gold": 0.2804,
+        "spx": 0.4138,
+        "dxy": -0.4084,
+        "nasdaq": 0.4302,
+        "igv": 0.2654
       },
       {
         "date": "2026-06-20",
-        "gold": 0.3805,
-        "spx": 0.2746,
-        "dxy": -0.4653,
-        "nasdaq": 0.2895,
-        "igv": 0.232
+        "gold": 0.2795,
+        "spx": 0.4111,
+        "dxy": -0.4123,
+        "nasdaq": 0.4289,
+        "igv": 0.2702
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 63931.69,
-      "change_7d_pct": -2.71,
-      "change_30d_pct": -15.31,
-      "change_90d_pct": -9.85,
-      "ma_200": 76879.54
+      "last": 63765.99,
+      "change_7d_pct": -2.96,
+      "change_30d_pct": -15.53,
+      "change_90d_pct": -10.08,
+      "ma_200": 76880.41
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1730.45,
-      "change_7d_pct": 0.34,
-      "change_30d_pct": -16.19,
-      "change_90d_pct": -19.59,
-      "ma_200": 2371.39
+      "last": 1725.69,
+      "change_7d_pct": 0.06,
+      "change_30d_pct": -16.42,
+      "change_90d_pct": -19.82,
+      "ma_200": 2371.34
     },
     "GOLD": {
       "name": "Ouro",
@@ -1337,19 +1337,19 @@
     },
     "SPX": {
       "name": "S&P 500",
-      "last": 7500.58,
-      "change_7d_pct": 0.93,
-      "change_30d_pct": 0.36,
-      "change_90d_pct": 13.97,
-      "ma_200": 6998.07
+      "last": 7420.1,
+      "change_7d_pct": -0.15,
+      "change_30d_pct": -0.71,
+      "change_90d_pct": 12.75,
+      "ma_200": 6996.87
     },
     "NASDAQ": {
       "name": "Nasdaq",
-      "last": 26517.93,
-      "change_7d_pct": 2.43,
-      "change_30d_pct": 0.66,
-      "change_90d_pct": 20.83,
-      "ma_200": 23868.76
+      "last": 26021.66,
+      "change_7d_pct": 0.51,
+      "change_30d_pct": -1.22,
+      "change_90d_pct": 18.57,
+      "ma_200": 23861.32
     },
     "DXY": {
       "name": "Dólar DXY",
