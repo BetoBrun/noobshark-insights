@@ -1,34 +1,112 @@
 {
-  "updated_at": "2026-06-24T05:10:44.509361+00:00",
-  "updated_at_brt": "24/06/2026 02:10",
-  "headline": "Dados indisponíveis no momento",
-  "executive_summary": "O script não conseguiu atualizar as fontes. Erro: não foi possível obter preços suficientes",
+  "updated_at": "2026-06-24T09:49:15.670875+00:00",
+  "updated_at_brt": "24/06/2026 06:49",
+  "headline": "Semáforo Vermelho: Defensivo",
+  "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
-    "color": "yellow",
-    "label": "Amarelo",
-    "text": "Falha de dados. Não tomar decisão com base nesta leitura."
+    "color": "red",
+    "label": "Vermelho",
+    "text": "Ambiente defensivo. Reduzir impulso, proteger capital e aguardar melhora da estrutura."
   },
-  "model_posture": "Dados insuficientes",
-  "market_regime": "Indefinido",
-  "btc_regime": "Indefinido",
-  "altseason_regime": "Indefinido",
+  "model_posture": "Defensivo",
+  "market_regime": "BTC em regime misto",
+  "btc_regime": "BTC em transição",
+  "altseason_regime": "Altcoins em preparação",
   "scores": {
-    "global_risk": 50,
-    "btc_cycle": 50,
-    "altseason_window": 50,
-    "tech_correlation": 0
+    "global_risk": 41.0,
+    "btc_cycle": 44.0,
+    "altseason_window": 42.0,
+    "tech_correlation": 0.0
   },
   "correlations": {
     "window": 30,
-    "current": {},
+    "current": {
+      "GOLD": null,
+      "SPX": null,
+      "DXY": null,
+      "NASDAQ": null,
+      "IGV": null
+    },
     "series": []
   },
-  "markets": {},
-  "fear_greed": null,
+  "markets": {
+    "BTC": {
+      "name": "Bitcoin",
+      "last": null,
+      "change_7d_pct": null,
+      "change_30d_pct": null,
+      "change_90d_pct": null,
+      "ma_200": null
+    },
+    "ETH": {
+      "name": "Ethereum",
+      "last": 1665.55,
+      "change_7d_pct": -2.57,
+      "change_30d_pct": -19.57,
+      "change_90d_pct": -16.36,
+      "ma_200": 2343.07
+    },
+    "GOLD": {
+      "name": "Ouro",
+      "last": 4086.0,
+      "change_7d_pct": -3.27,
+      "change_30d_pct": -9.21,
+      "change_90d_pct": -9.04,
+      "ma_200": 4657.04
+    },
+    "SPX": {
+      "name": "S&P 500",
+      "last": 7365.46,
+      "change_7d_pct": -1.8,
+      "change_30d_pct": -2.04,
+      "change_90d_pct": 15.65,
+      "ma_200": 7009.36
+    },
+    "NASDAQ": {
+      "name": "Nasdaq",
+      "last": 25587.04,
+      "change_7d_pct": -3.51,
+      "change_30d_pct": -4.01,
+      "change_90d_pct": 22.14,
+      "ma_200": 23917.48
+    },
+    "DXY": {
+      "name": "Dólar DXY",
+      "last": 101.63,
+      "change_7d_pct": 0.77,
+      "change_30d_pct": 2.48,
+      "change_90d_pct": 1.48,
+      "ma_200": 98.74
+    },
+    "IGV": {
+      "name": "iShares Expanded Tech-Software ETF",
+      "last": 87.32,
+      "change_7d_pct": -1.99,
+      "change_30d_pct": -7.14,
+      "change_90d_pct": 13.59,
+      "ma_200": 91.21
+    }
+  },
+  "fear_greed": {
+    "value": 17,
+    "classification": "Extreme Fear"
+  },
   "insights": [
     {
-      "title": "Falha de atualização",
-      "text": "Verifique logs do GitHub Actions e conectividade das fontes."
+      "title": "Regime misto de correlação",
+      "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
+    },
+    {
+      "title": "Dólar em alta pressiona risco",
+      "text": "DXY subindo em 30 dias costuma reduzir o apetite por cripto e tecnologia. Longs exigem mais confirmação."
+    },
+    {
+      "title": "Fear & Greed: 17 — Extreme Fear",
+      "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
+    },
+    {
+      "title": "Altseason ainda seletiva",
+      "text": "A janela de altcoins não está claramente aberta. Priorizar líderes, força relativa e stops técnicos."
     }
   ]
 }
