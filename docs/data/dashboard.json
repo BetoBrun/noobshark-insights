@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T14:03:58.035554+00:00",
-  "updated_at_brt": "05/07/2026 11:03",
+  "updated_at": "2026-07-05T15:35:02.128906+00:00",
+  "updated_at_brt": "05/07/2026 12:35",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -13,29 +13,21 @@
   "btc_regime": "BTC defensivo",
   "altseason_regime": "Janela de altcoins abrindo",
   "scores": {
-    "global_risk": 57.0,
-    "btc_cycle": 36.0,
-    "altseason_window": 65.0,
-    "tech_correlation": 0.4291
+    "global_risk": 55.0,
+    "btc_cycle": 33.0,
+    "altseason_window": 63.0,
+    "tech_correlation": 0.2687
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.4509,
-      "SPX": 0.4264,
-      "DXY": -0.5198,
-      "NASDAQ": 0.3774,
-      "IGV": 0.4836
+      "GOLD": 0.3583,
+      "SPX": 0.2529,
+      "DXY": -0.405,
+      "NASDAQ": 0.1963,
+      "IGV": 0.3568
     },
     "series": [
-      {
-        "date": "2026-01-26",
-        "gold": 0.0625,
-        "spx": 0.4742,
-        "dxy": 0.2056,
-        "nasdaq": 0.3923,
-        "igv": -0.0091
-      },
       {
         "date": "2026-01-27",
         "gold": 0.0574,
@@ -1301,71 +1293,79 @@
         "igv": 0.4829
       },
       {
+        "date": "2026-07-04",
+        "gold": 0.451,
+        "spx": 0.4255,
+        "dxy": -0.5203,
+        "nasdaq": 0.3771,
+        "igv": 0.4835
+      },
+      {
         "date": "2026-07-05",
-        "gold": 0.4509,
-        "spx": 0.4264,
-        "dxy": -0.5198,
-        "nasdaq": 0.3774,
-        "igv": 0.4836
+        "gold": 0.3583,
+        "spx": 0.2529,
+        "dxy": -0.405,
+        "nasdaq": 0.1963,
+        "igv": 0.3568
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 62656.89,
-      "change_7d_pct": 5.25,
-      "change_30d_pct": 2.85,
-      "change_90d_pct": -9.01,
-      "ma_200": 74824.38
+      "last": 62761.99,
+      "change_7d_pct": 4.36,
+      "change_30d_pct": 3.11,
+      "change_90d_pct": -12.76,
+      "ma_200": 74709.63
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1763.56,
-      "change_7d_pct": 12.3,
-      "change_30d_pct": 11.56,
-      "change_90d_pct": -16.33,
-      "ma_200": 2268.0
+      "last": 1774.92,
+      "change_7d_pct": 10.23,
+      "change_30d_pct": 13.14,
+      "change_90d_pct": -20.83,
+      "ma_200": 2262.79
     },
     "GOLD": {
       "name": "Ouro",
       "last": 4187.3,
-      "change_7d_pct": 2.66,
+      "change_7d_pct": 4.1,
       "change_30d_pct": -3.45,
-      "change_90d_pct": -10.08,
-      "ma_200": 4647.9
+      "change_90d_pct": -10.09,
+      "ma_200": 4647.1
     },
     "SPX": {
       "name": "S&P 500",
       "last": 7483.24,
-      "change_7d_pct": 1.76,
+      "change_7d_pct": 0.58,
       "change_30d_pct": 1.35,
-      "change_90d_pct": 13.18,
-      "ma_200": 7038.56
+      "change_90d_pct": 13.09,
+      "ma_200": 7042.37
     },
     "NASDAQ": {
       "name": "Nasdaq",
       "last": 25832.67,
-      "change_7d_pct": 2.12,
+      "change_7d_pct": 0.05,
       "change_30d_pct": 0.48,
-      "change_90d_pct": 17.44,
-      "ma_200": 24032.53
+      "change_90d_pct": 17.33,
+      "ma_200": 24048.22
     },
     "DXY": {
       "name": "Dólar DXY",
       "last": 100.86,
-      "change_7d_pct": -0.49,
+      "change_7d_pct": -0.25,
       "change_30d_pct": 0.79,
-      "change_90d_pct": 0.88,
-      "ma_200": 98.87
+      "change_90d_pct": 1.22,
+      "ma_200": 98.88
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
       "last": 93.57,
-      "change_7d_pct": 6.09,
+      "change_7d_pct": 4.09,
       "change_30d_pct": -2.36,
-      "change_90d_pct": 16.32,
-      "ma_200": 90.31
+      "change_90d_pct": 16.26,
+      "ma_200": 90.25
     }
   },
   "fear_greed": {
