@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T11:42:10.859099+00:00",
-  "updated_at_brt": "14/07/2026 08:42",
+  "updated_at": "2026-07-14T14:08:39.801376+00:00",
+  "updated_at_brt": "14/07/2026 11:08",
   "headline": "Semáforo Vermelho: Defensivo",
-  "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
+  "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
     "color": "red",
     "label": "Vermelho",
@@ -11,21 +11,21 @@
   "model_posture": "Defensivo",
   "market_regime": "BTC em regime misto",
   "btc_regime": "BTC defensivo",
-  "altseason_regime": "Altcoins em preparação",
+  "altseason_regime": "Janela de altcoins abrindo",
   "scores": {
-    "global_risk": 47.0,
-    "btc_cycle": 36.0,
-    "altseason_window": 51.0,
-    "tech_correlation": 0.2856
+    "global_risk": 49.0,
+    "btc_cycle": 31.0,
+    "altseason_window": 55.0,
+    "tech_correlation": 0.2896
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.5384,
-      "SPX": 0.2811,
-      "DXY": -0.5251,
-      "NASDAQ": 0.1738,
-      "IGV": 0.4019
+      "GOLD": 0.5703,
+      "SPX": 0.2844,
+      "DXY": -0.568,
+      "NASDAQ": 0.1857,
+      "IGV": 0.3986
     },
     "series": [
       {
@@ -1302,77 +1302,88 @@
       },
       {
         "date": "2026-07-14",
-        "gold": 0.5384,
-        "spx": 0.2811,
-        "dxy": -0.5251,
-        "nasdaq": 0.1738,
-        "igv": 0.4019
+        "gold": 0.5703,
+        "spx": 0.2844,
+        "dxy": -0.568,
+        "nasdaq": 0.1857,
+        "igv": 0.3986
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 62787.31,
-      "change_7d_pct": 0.85,
-      "change_30d_pct": -5.28,
-      "change_90d_pct": -16.45,
-      "ma_200": 73617.92
+      "last": 63689.1,
+      "change_7d_pct": 2.3,
+      "change_30d_pct": -3.92,
+      "change_90d_pct": -15.25,
+      "ma_200": 73622.43
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1796.08,
-      "change_7d_pct": 3.06,
-      "change_30d_pct": 0.06,
-      "change_90d_pct": -23.53,
-      "ma_200": 2210.25
+      "last": 1863.71,
+      "change_7d_pct": 6.95,
+      "change_30d_pct": 3.83,
+      "change_90d_pct": -20.65,
+      "ma_200": 2210.59
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4033.7,
-      "change_7d_pct": -0.91,
-      "change_30d_pct": -6.8,
-      "change_90d_pct": -15.71,
-      "ma_200": 4630.99
+      "last": 4083.5,
+      "change_7d_pct": 0.31,
+      "change_30d_pct": -5.65,
+      "change_90d_pct": -14.67,
+      "ma_200": 4631.24
     },
     "SPX": {
       "name": "S&P 500",
-      "last": 7515.34,
-      "change_7d_pct": 0.44,
-      "change_30d_pct": -0.52,
-      "change_90d_pct": 6.73,
-      "ma_200": 7072.19
+      "last": 7529.29,
+      "change_7d_pct": 0.62,
+      "change_30d_pct": -0.33,
+      "change_90d_pct": 6.93,
+      "ma_200": 7072.26
     },
     "NASDAQ": {
       "name": "Nasdaq",
-      "last": 25873.18,
-      "change_7d_pct": 0.01,
-      "change_30d_pct": -3.04,
-      "change_90d_pct": 7.35,
-      "ma_200": 24167.57
+      "last": 25977.54,
+      "change_7d_pct": 0.41,
+      "change_30d_pct": -2.65,
+      "change_90d_pct": 7.78,
+      "ma_200": 24168.09
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 101.12,
-      "change_7d_pct": 0.07,
-      "change_30d_pct": 1.5,
-      "change_90d_pct": 2.95,
+      "last": 100.69,
+      "change_7d_pct": -0.35,
+      "change_30d_pct": 1.07,
+      "change_90d_pct": 2.52,
       "ma_200": 99.0
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
-      "last": 92.7,
-      "change_7d_pct": 0.24,
-      "change_30d_pct": 0.02,
-      "change_90d_pct": 9.91,
+      "last": 93.01,
+      "change_7d_pct": 0.57,
+      "change_30d_pct": 0.36,
+      "change_90d_pct": 10.27,
       "ma_200": 89.59
     }
   },
-  "fear_greed": null,
+  "fear_greed": {
+    "value": 22,
+    "classification": "Extreme Fear"
+  },
   "insights": [
     {
       "title": "Regime misto de correlação",
       "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
+    },
+    {
+      "title": "Fear & Greed: 22 — Extreme Fear",
+      "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
+    },
+    {
+      "title": "Altseason em melhora",
+      "text": "O conjunto de fatores começa a favorecer altcoins, mas euforia e funding excessivo devem ser monitorados."
     }
   ]
 }
