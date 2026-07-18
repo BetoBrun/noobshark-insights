@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T21:01:40.425143+00:00",
-  "updated_at_brt": "18/07/2026 18:01",
+  "updated_at": "2026-07-18T22:02:44.978298+00:00",
+  "updated_at_brt": "18/07/2026 19:02",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,16 +16,16 @@
     "global_risk": 52.0,
     "btc_cycle": 34.0,
     "altseason_window": 59.0,
-    "tech_correlation": 0.3192
+    "tech_correlation": 0.3187
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.5983,
-      "SPX": 0.3309,
-      "DXY": -0.4699,
-      "NASDAQ": 0.2807,
-      "IGV": 0.346
+      "GOLD": 0.5977,
+      "SPX": 0.3304,
+      "DXY": -0.4691,
+      "NASDAQ": 0.2805,
+      "IGV": 0.3452
     },
     "series": [
       {
@@ -1302,30 +1302,30 @@
       },
       {
         "date": "2026-07-18",
-        "gold": 0.5983,
-        "spx": 0.3309,
-        "dxy": -0.4699,
-        "nasdaq": 0.2807,
-        "igv": 0.346
+        "gold": 0.5977,
+        "spx": 0.3304,
+        "dxy": -0.4691,
+        "nasdaq": 0.2805,
+        "igv": 0.3452
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 64650.23,
-      "change_7d_pct": 1.4,
-      "change_30d_pct": 1.75,
-      "change_90d_pct": -14.79,
-      "ma_200": 73157.99
+      "last": 64725.5,
+      "change_7d_pct": 1.52,
+      "change_30d_pct": 1.86,
+      "change_90d_pct": -14.69,
+      "ma_200": 73158.37
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1855.98,
-      "change_7d_pct": 2.78,
-      "change_30d_pct": 8.47,
-      "change_90d_pct": -19.84,
-      "ma_200": 2189.09
+      "last": 1860.84,
+      "change_7d_pct": 3.05,
+      "change_30d_pct": 8.76,
+      "change_90d_pct": -19.63,
+      "ma_200": 2189.12
     },
     "GOLD": {
       "name": "Ouro",
