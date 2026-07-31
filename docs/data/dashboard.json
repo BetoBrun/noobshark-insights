@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T16:53:26.846874+00:00",
-  "updated_at_brt": "31/07/2026 13:53",
+  "updated_at": "2026-07-31T18:41:54.538433+00:00",
+  "updated_at_brt": "31/07/2026 15:41",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,16 +16,16 @@
     "global_risk": 55.0,
     "btc_cycle": 32.0,
     "altseason_window": 62.0,
-    "tech_correlation": 0.2814
+    "tech_correlation": 0.268
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.5686,
-      "SPX": 0.3867,
-      "DXY": -0.4075,
-      "NASDAQ": 0.4347,
-      "IGV": 0.0227
+      "GOLD": 0.5624,
+      "SPX": 0.3736,
+      "DXY": -0.3795,
+      "NASDAQ": 0.425,
+      "IGV": 0.0055
     },
     "series": [
       {
@@ -1302,69 +1302,69 @@
       },
       {
         "date": "2026-07-31",
-        "gold": 0.5686,
-        "spx": 0.3867,
-        "dxy": -0.4075,
-        "nasdaq": 0.4347,
-        "igv": 0.0227
+        "gold": 0.5624,
+        "spx": 0.3736,
+        "dxy": -0.3795,
+        "nasdaq": 0.425,
+        "igv": 0.0055
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 62791.03,
-      "change_7d_pct": -2.36,
-      "change_30d_pct": 2.12,
-      "change_90d_pct": -20.05,
-      "ma_200": 71455.09
+      "last": 62900.55,
+      "change_7d_pct": -2.19,
+      "change_30d_pct": 2.3,
+      "change_90d_pct": -19.91,
+      "ma_200": 71455.64
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1862.36,
-      "change_7d_pct": -0.58,
-      "change_30d_pct": 9.67,
-      "change_90d_pct": -19.78,
-      "ma_200": 2109.98
+      "last": 1864.89,
+      "change_7d_pct": -0.44,
+      "change_30d_pct": 9.82,
+      "change_90d_pct": -19.67,
+      "ma_200": 2109.99
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4099.2,
-      "change_7d_pct": 0.78,
-      "change_30d_pct": -0.33,
-      "change_90d_pct": -11.46,
-      "ma_200": 4599.38
+      "last": 4106.2,
+      "change_7d_pct": 0.95,
+      "change_30d_pct": -0.16,
+      "change_90d_pct": -11.31,
+      "ma_200": 4599.41
     },
     "SPX": {
       "name": "S&P 500",
-      "last": 7471.69,
-      "change_7d_pct": 0.81,
-      "change_30d_pct": -0.15,
-      "change_90d_pct": 3.34,
-      "ma_200": 7118.08
+      "last": 7483.16,
+      "change_7d_pct": 0.96,
+      "change_30d_pct": -0.0,
+      "change_90d_pct": 3.5,
+      "ma_200": 7118.13
     },
     "NASDAQ": {
       "name": "Nasdaq",
-      "last": 25274.75,
-      "change_7d_pct": 1.2,
-      "change_30d_pct": -2.16,
-      "change_90d_pct": 0.64,
-      "ma_200": 24325.92
+      "last": 25326.6,
+      "change_7d_pct": 1.4,
+      "change_30d_pct": -1.96,
+      "change_90d_pct": 0.84,
+      "ma_200": 24326.18
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 100.05,
-      "change_7d_pct": -1.4,
-      "change_30d_pct": -0.81,
-      "change_90d_pct": 1.87,
+      "last": 99.93,
+      "change_7d_pct": -1.52,
+      "change_30d_pct": -0.93,
+      "change_90d_pct": 1.75,
       "ma_200": 99.21
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
-      "last": 94.01,
-      "change_7d_pct": 6.86,
-      "change_30d_pct": 0.48,
-      "change_90d_pct": 8.55,
+      "last": 94.36,
+      "change_7d_pct": 7.25,
+      "change_30d_pct": 0.84,
+      "change_90d_pct": 8.94,
       "ma_200": 88.41
     }
   },
