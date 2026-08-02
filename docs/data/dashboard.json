@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T22:07:55.207751+00:00",
-  "updated_at_brt": "01/08/2026 19:07",
+  "updated_at": "2026-08-02T00:07:56.257146+00:00",
+  "updated_at_brt": "01/08/2026 21:07",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -21,11 +21,11 @@
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.6116,
-      "SPX": 0.3718,
-      "DXY": -0.2766,
-      "NASDAQ": 0.4609,
-      "IGV": -0.0183
+      "GOLD": 0.6118,
+      "SPX": 0.3719,
+      "DXY": -0.2763,
+      "NASDAQ": 0.4611,
+      "IGV": -0.0184
     },
     "series": [
       {
@@ -1301,31 +1301,31 @@
         "igv": -0.0098
       },
       {
-        "date": "2026-08-01",
-        "gold": 0.6116,
-        "spx": 0.3718,
-        "dxy": -0.2766,
-        "nasdaq": 0.4609,
-        "igv": -0.0183
+        "date": "2026-08-02",
+        "gold": 0.6118,
+        "spx": 0.3719,
+        "dxy": -0.2763,
+        "nasdaq": 0.4611,
+        "igv": -0.0184
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 62766.38,
-      "change_7d_pct": -3.94,
-      "change_30d_pct": 0.36,
-      "change_90d_pct": -21.37,
-      "ma_200": 71292.43
+      "last": 62836.61,
+      "change_7d_pct": -3.83,
+      "change_30d_pct": 0.47,
+      "change_90d_pct": -21.28,
+      "ma_200": 71292.78
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1845.33,
-      "change_7d_pct": -5.53,
-      "change_30d_pct": 5.06,
-      "change_90d_pct": -21.35,
-      "ma_200": 2102.58
+      "last": 1845.73,
+      "change_7d_pct": -5.51,
+      "change_30d_pct": 5.08,
+      "change_90d_pct": -21.34,
+      "ma_200": 2102.59
     },
     "GOLD": {
       "name": "Ouro",
