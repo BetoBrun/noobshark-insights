@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T13:49:23.464002+00:00",
-  "updated_at_brt": "02/08/2026 10:49",
+  "updated_at": "2026-08-02T15:14:44.341300+00:00",
+  "updated_at_brt": "02/08/2026 12:14",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -21,9 +21,9 @@
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.5478,
-      "SPX": 0.379,
-      "DXY": -0.2858,
+      "GOLD": 0.5479,
+      "SPX": 0.3791,
+      "DXY": -0.2859,
       "NASDAQ": 0.4681,
       "IGV": -0.0177
     },
@@ -1302,9 +1302,9 @@
       },
       {
         "date": "2026-08-02",
-        "gold": 0.5478,
-        "spx": 0.379,
-        "dxy": -0.2858,
+        "gold": 0.5479,
+        "spx": 0.3791,
+        "dxy": -0.2859,
         "nasdaq": 0.4681,
         "igv": -0.0177
       }
@@ -1313,19 +1313,19 @@
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 63062.34,
-      "change_7d_pct": -1.04,
-      "change_30d_pct": -0.04,
+      "last": 63058.65,
+      "change_7d_pct": -1.05,
+      "change_30d_pct": -0.05,
       "change_90d_pct": -22.08,
-      "ma_200": 71123.08
+      "ma_200": 71123.06
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1854.8,
-      "change_7d_pct": -1.89,
-      "change_30d_pct": 4.26,
-      "change_90d_pct": -21.45,
-      "ma_200": 2095.07
+      "last": 1857.12,
+      "change_7d_pct": -1.77,
+      "change_30d_pct": 4.39,
+      "change_90d_pct": -21.35,
+      "ma_200": 2095.09
     },
     "GOLD": {
       "name": "Ouro",
