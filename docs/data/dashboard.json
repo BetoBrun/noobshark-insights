@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T21:57:59.273653+00:00",
-  "updated_at_brt": "13/08/2026 18:57",
+  "updated_at": "2026-08-13T22:57:41.700949+00:00",
+  "updated_at_brt": "13/08/2026 19:57",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -14,18 +14,18 @@
   "altseason_regime": "Janela de altcoins abrindo",
   "scores": {
     "global_risk": 57.0,
-    "btc_cycle": 30.0,
+    "btc_cycle": 31.0,
     "altseason_window": 58.0,
-    "tech_correlation": 0.1805
+    "tech_correlation": 0.1792
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.4734,
-      "SPX": 0.2654,
-      "DXY": -0.3643,
-      "NASDAQ": 0.3219,
-      "IGV": -0.0457
+      "GOLD": 0.4739,
+      "SPX": 0.2283,
+      "DXY": -0.3646,
+      "NASDAQ": 0.3505,
+      "IGV": -0.0413
     },
     "series": [
       {
@@ -1119,221 +1119,221 @@
       {
         "date": "2026-07-21",
         "gold": 0.6306,
-        "spx": 0.3699,
+        "spx": 0.3274,
         "dxy": -0.4437,
-        "nasdaq": 0.2864,
+        "nasdaq": 0.3235,
         "igv": 0.3034
       },
       {
         "date": "2026-07-22",
         "gold": 0.6022,
-        "spx": 0.3912,
+        "spx": 0.3435,
         "dxy": -0.4658,
-        "nasdaq": 0.32,
+        "nasdaq": 0.366,
         "igv": 0.3534
       },
       {
         "date": "2026-07-23",
         "gold": 0.6056,
-        "spx": 0.3711,
+        "spx": 0.2946,
         "dxy": -0.4555,
-        "nasdaq": 0.2904,
+        "nasdaq": 0.3501,
         "igv": 0.3952
       },
       {
         "date": "2026-07-24",
         "gold": 0.5195,
-        "spx": 0.3689,
+        "spx": 0.2874,
         "dxy": -0.427,
-        "nasdaq": 0.2965,
+        "nasdaq": 0.3585,
         "igv": 0.3328
       },
       {
         "date": "2026-07-25",
         "gold": 0.5883,
-        "spx": 0.3789,
+        "spx": 0.2939,
         "dxy": -0.4927,
-        "nasdaq": 0.285,
+        "nasdaq": 0.3513,
         "igv": 0.2911
       },
       {
         "date": "2026-07-26",
         "gold": 0.5872,
-        "spx": 0.3738,
+        "spx": 0.2896,
         "dxy": -0.4867,
-        "nasdaq": 0.2844,
+        "nasdaq": 0.3496,
         "igv": 0.3204
       },
       {
         "date": "2026-07-27",
         "gold": 0.5508,
-        "spx": 0.3571,
+        "spx": 0.277,
         "dxy": -0.4736,
-        "nasdaq": 0.28,
+        "nasdaq": 0.3414,
         "igv": 0.1349
       },
       {
         "date": "2026-07-28",
         "gold": 0.5474,
-        "spx": 0.3571,
+        "spx": 0.2764,
         "dxy": -0.4729,
-        "nasdaq": 0.2823,
+        "nasdaq": 0.344,
         "igv": 0.133
       },
       {
         "date": "2026-07-29",
         "gold": 0.5854,
-        "spx": 0.3158,
+        "spx": 0.2313,
         "dxy": -0.4028,
-        "nasdaq": 0.2618,
+        "nasdaq": 0.3271,
         "igv": 0.1135
       },
       {
         "date": "2026-07-30",
         "gold": 0.6234,
-        "spx": 0.4435,
+        "spx": 0.3732,
         "dxy": -0.3976,
-        "nasdaq": 0.4248,
+        "nasdaq": 0.4776,
         "igv": 0.1672
       },
       {
         "date": "2026-07-31",
         "gold": 0.6287,
-        "spx": 0.3579,
+        "spx": 0.3738,
         "dxy": -0.4429,
-        "nasdaq": 0.4292,
+        "nasdaq": 0.4058,
         "igv": -0.0098
       },
       {
         "date": "2026-08-01",
         "gold": 0.6116,
-        "spx": 0.3718,
+        "spx": 0.3861,
         "dxy": -0.3876,
-        "nasdaq": 0.4876,
+        "nasdaq": 0.4609,
         "igv": -0.0183
       },
       {
         "date": "2026-08-02",
         "gold": 0.618,
-        "spx": 0.3761,
+        "spx": 0.39,
         "dxy": -0.3934,
-        "nasdaq": 0.4919,
+        "nasdaq": 0.4655,
         "igv": -0.0181
       },
       {
         "date": "2026-08-03",
         "gold": 0.6198,
-        "spx": 0.3451,
+        "spx": 0.3135,
         "dxy": -0.3974,
-        "nasdaq": 0.4117,
+        "nasdaq": 0.4326,
         "igv": -0.0192
       },
       {
         "date": "2026-08-04",
         "gold": 0.6253,
-        "spx": 0.3601,
+        "spx": 0.3314,
         "dxy": -0.4016,
-        "nasdaq": 0.4214,
+        "nasdaq": 0.4405,
         "igv": 0.0431
       },
       {
         "date": "2026-08-05",
         "gold": 0.5821,
-        "spx": 0.3444,
+        "spx": 0.3155,
         "dxy": -0.4115,
-        "nasdaq": 0.3956,
+        "nasdaq": 0.4148,
         "igv": 0.0226
       },
       {
         "date": "2026-08-06",
         "gold": 0.5822,
-        "spx": 0.3353,
+        "spx": 0.306,
         "dxy": -0.3976,
-        "nasdaq": 0.3803,
+        "nasdaq": 0.4001,
         "igv": 0.0243
       },
       {
         "date": "2026-08-07",
         "gold": 0.5605,
-        "spx": 0.3326,
+        "spx": 0.3029,
         "dxy": -0.4255,
-        "nasdaq": 0.4036,
+        "nasdaq": 0.4233,
         "igv": 0.0106
       },
       {
         "date": "2026-08-08",
         "gold": 0.547,
-        "spx": 0.3124,
+        "spx": 0.2818,
         "dxy": -0.4244,
-        "nasdaq": 0.3841,
+        "nasdaq": 0.4045,
         "igv": -0.0115
       },
       {
         "date": "2026-08-09",
         "gold": 0.5807,
-        "spx": 0.3038,
+        "spx": 0.2727,
         "dxy": -0.4419,
-        "nasdaq": 0.3842,
+        "nasdaq": 0.405,
         "igv": 0.0279
       },
       {
         "date": "2026-08-10",
         "gold": 0.5625,
-        "spx": 0.3043,
+        "spx": 0.2737,
         "dxy": -0.4598,
-        "nasdaq": 0.3882,
+        "nasdaq": 0.4086,
         "igv": -0.0146
       },
       {
         "date": "2026-08-11",
         "gold": 0.558,
-        "spx": 0.3089,
+        "spx": 0.2785,
         "dxy": -0.4607,
-        "nasdaq": 0.3923,
+        "nasdaq": 0.4126,
         "igv": -0.0033
       },
       {
         "date": "2026-08-12",
         "gold": 0.4966,
-        "spx": 0.2586,
+        "spx": 0.2261,
         "dxy": -0.4171,
-        "nasdaq": 0.3384,
+        "nasdaq": 0.3603,
         "igv": -0.0013
       },
       {
         "date": "2026-08-13",
-        "gold": 0.4734,
-        "spx": 0.2654,
-        "dxy": -0.3643,
-        "nasdaq": 0.3219,
-        "igv": -0.0457
+        "gold": 0.4739,
+        "spx": 0.2283,
+        "dxy": -0.3646,
+        "nasdaq": 0.3505,
+        "igv": -0.0413
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 63400.98,
-      "change_7d_pct": -2.28,
-      "change_30d_pct": -2.03,
-      "change_90d_pct": -18.85,
-      "ma_200": 69628.03
+      "last": 63462.97,
+      "change_7d_pct": -2.18,
+      "change_30d_pct": -1.93,
+      "change_90d_pct": -18.77,
+      "ma_200": 69628.34
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1886.46,
-      "change_7d_pct": -1.4,
-      "change_30d_pct": -1.59,
-      "change_90d_pct": -13.46,
+      "last": 1887.43,
+      "change_7d_pct": -1.35,
+      "change_30d_pct": -1.54,
+      "change_90d_pct": -13.41,
       "ma_200": 2029.31
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4407.1,
-      "change_7d_pct": 1.53,
-      "change_30d_pct": 8.98,
-      "change_90d_pct": -3.26,
-      "ma_200": 4567.55
+      "last": 4416.1,
+      "change_7d_pct": 1.74,
+      "change_30d_pct": 9.2,
+      "change_90d_pct": -3.07,
+      "ma_200": 4567.59
     },
     "SPX": {
       "name": "S&P 500",
@@ -1341,7 +1341,7 @@
       "change_7d_pct": 0.53,
       "change_30d_pct": 2.99,
       "change_90d_pct": 5.27,
-      "ma_200": 7168.79
+      "ma_200": 7167.4
     },
     "NASDAQ": {
       "name": "Nasdaq",
@@ -1349,14 +1349,14 @@
       "change_7d_pct": 0.42,
       "change_30d_pct": 2.03,
       "change_90d_pct": 2.2,
-      "ma_200": 24507.98
+      "ma_200": 24514.32
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 99.96,
-      "change_7d_pct": 0.36,
-      "change_30d_pct": -0.54,
-      "change_90d_pct": 0.7,
+      "last": 99.95,
+      "change_7d_pct": 0.35,
+      "change_30d_pct": -0.55,
+      "change_90d_pct": 0.68,
       "ma_200": 99.28
     },
     "IGV": {
