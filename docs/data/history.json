@@ -1,14 +1,5 @@
 [
   {
-    "date": "02/07/2026 05:22",
-    "traffic_light": "Vermelho",
-    "global_risk": 49.0,
-    "btc_cycle": 32.0,
-    "altseason_window": 49.0,
-    "tech_correlation": 0.4806,
-    "btc_price": 60272.67
-  },
-  {
     "date": "02/07/2026 08:41",
     "traffic_light": "Amarelo",
     "global_risk": 50,
@@ -4492,6 +4483,15 @@
   },
   {
     "date": "16/08/2026 07:35",
+    "traffic_light": "Amarelo",
+    "global_risk": 50,
+    "btc_cycle": 50,
+    "altseason_window": 50,
+    "tech_correlation": 0,
+    "btc_price": null
+  },
+  {
+    "date": "16/08/2026 08:31",
     "traffic_light": "Amarelo",
     "global_risk": 50,
     "btc_cycle": 50,
