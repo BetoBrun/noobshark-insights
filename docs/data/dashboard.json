@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T13:55:09.056815+00:00",
-  "updated_at_brt": "19/08/2026 10:55",
+  "updated_at": "2026-08-19T14:48:30.736888+00:00",
+  "updated_at_brt": "19/08/2026 11:48",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -13,19 +13,19 @@
   "btc_regime": "BTC defensivo",
   "altseason_regime": "Janela de altcoins abrindo",
   "scores": {
-    "global_risk": 59.0,
+    "global_risk": 57.0,
     "btc_cycle": 34.0,
-    "altseason_window": 61.0,
-    "tech_correlation": 0.1042
+    "altseason_window": 57.0,
+    "tech_correlation": 0.0151
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.415,
-      "SPX": 0.188,
-      "DXY": -0.2171,
-      "NASDAQ": 0.2464,
-      "IGV": -0.1219
+      "GOLD": 0.4573,
+      "SPX": 0.162,
+      "DXY": -0.2733,
+      "NASDAQ": null,
+      "IGV": -0.1168
     },
     "series": [
       {
@@ -33,7 +33,7 @@
         "gold": 0.1203,
         "spx": 0.5308,
         "dxy": -0.0487,
-        "nasdaq": 0.554,
+        "nasdaq": null,
         "igv": 0.4128
       },
       {
@@ -41,7 +41,7 @@
         "gold": 0.0921,
         "spx": 0.5405,
         "dxy": -0.0502,
-        "nasdaq": 0.5657,
+        "nasdaq": null,
         "igv": 0.4043
       },
       {
@@ -49,7 +49,7 @@
         "gold": 0.028,
         "spx": 0.5465,
         "dxy": -0.0343,
-        "nasdaq": 0.592,
+        "nasdaq": null,
         "igv": 0.3584
       },
       {
@@ -57,7 +57,7 @@
         "gold": -0.0007,
         "spx": 0.5674,
         "dxy": -0.1026,
-        "nasdaq": 0.611,
+        "nasdaq": null,
         "igv": 0.3703
       },
       {
@@ -65,7 +65,7 @@
         "gold": -0.0027,
         "spx": 0.5582,
         "dxy": -0.0949,
-        "nasdaq": 0.5971,
+        "nasdaq": null,
         "igv": 0.3611
       },
       {
@@ -73,7 +73,7 @@
         "gold": 0.0692,
         "spx": 0.5965,
         "dxy": -0.1474,
-        "nasdaq": 0.6281,
+        "nasdaq": null,
         "igv": 0.3884
       },
       {
@@ -81,7 +81,7 @@
         "gold": 0.1022,
         "spx": 0.612,
         "dxy": -0.0558,
-        "nasdaq": 0.6409,
+        "nasdaq": null,
         "igv": 0.3631
       },
       {
@@ -89,7 +89,7 @@
         "gold": 0.1351,
         "spx": 0.5924,
         "dxy": -0.0201,
-        "nasdaq": 0.613,
+        "nasdaq": null,
         "igv": 0.3671
       },
       {
@@ -97,7 +97,7 @@
         "gold": 0.1271,
         "spx": 0.5747,
         "dxy": -0.0177,
-        "nasdaq": 0.5985,
+        "nasdaq": null,
         "igv": 0.3642
       },
       {
@@ -105,7 +105,7 @@
         "gold": 0.1051,
         "spx": 0.5622,
         "dxy": -0.0056,
-        "nasdaq": 0.5878,
+        "nasdaq": null,
         "igv": 0.3857
       },
       {
@@ -113,7 +113,7 @@
         "gold": -0.0026,
         "spx": 0.6042,
         "dxy": -0.104,
-        "nasdaq": 0.6233,
+        "nasdaq": null,
         "igv": 0.4173
       },
       {
@@ -121,7 +121,7 @@
         "gold": -0.0022,
         "spx": 0.6082,
         "dxy": -0.1124,
-        "nasdaq": 0.6255,
+        "nasdaq": null,
         "igv": 0.3921
       },
       {
@@ -129,7 +129,7 @@
         "gold": 0.1309,
         "spx": 0.5814,
         "dxy": -0.1389,
-        "nasdaq": 0.6066,
+        "nasdaq": null,
         "igv": 0.282
       },
       {
@@ -137,7 +137,7 @@
         "gold": 0.1995,
         "spx": 0.6504,
         "dxy": -0.1569,
-        "nasdaq": 0.6722,
+        "nasdaq": null,
         "igv": 0.3243
       },
       {
@@ -145,7 +145,7 @@
         "gold": 0.0696,
         "spx": 0.6487,
         "dxy": -0.1373,
-        "nasdaq": 0.6662,
+        "nasdaq": null,
         "igv": 0.2863
       },
       {
@@ -153,7 +153,7 @@
         "gold": 0.0691,
         "spx": 0.6463,
         "dxy": -0.1372,
-        "nasdaq": 0.6664,
+        "nasdaq": null,
         "igv": 0.3137
       },
       {
@@ -161,7 +161,7 @@
         "gold": 0.0923,
         "spx": 0.6447,
         "dxy": -0.1582,
-        "nasdaq": 0.6575,
+        "nasdaq": null,
         "igv": 0.2975
       },
       {
@@ -169,7 +169,7 @@
         "gold": 0.0958,
         "spx": 0.6385,
         "dxy": -0.1437,
-        "nasdaq": 0.6465,
+        "nasdaq": null,
         "igv": 0.3041
       },
       {
@@ -177,7 +177,7 @@
         "gold": 0.1408,
         "spx": 0.6109,
         "dxy": -0.1863,
-        "nasdaq": 0.6178,
+        "nasdaq": null,
         "igv": 0.3414
       },
       {
@@ -185,7 +185,7 @@
         "gold": 0.0912,
         "spx": 0.6199,
         "dxy": -0.3103,
-        "nasdaq": 0.6138,
+        "nasdaq": null,
         "igv": 0.3047
       },
       {
@@ -193,7 +193,7 @@
         "gold": 0.1055,
         "spx": 0.6088,
         "dxy": -0.3232,
-        "nasdaq": 0.6026,
+        "nasdaq": null,
         "igv": 0.3055
       },
       {
@@ -201,7 +201,7 @@
         "gold": 0.0943,
         "spx": 0.6107,
         "dxy": -0.2904,
-        "nasdaq": 0.5893,
+        "nasdaq": null,
         "igv": 0.2224
       },
       {
@@ -209,7 +209,7 @@
         "gold": 0.0834,
         "spx": 0.6085,
         "dxy": -0.2546,
-        "nasdaq": 0.5975,
+        "nasdaq": null,
         "igv": 0.3085
       },
       {
@@ -217,7 +217,7 @@
         "gold": 0.1499,
         "spx": 0.5677,
         "dxy": -0.3288,
-        "nasdaq": 0.5587,
+        "nasdaq": null,
         "igv": 0.3572
       },
       {
@@ -225,7 +225,7 @@
         "gold": 0.1534,
         "spx": 0.568,
         "dxy": -0.332,
-        "nasdaq": 0.5593,
+        "nasdaq": null,
         "igv": 0.3626
       },
       {
@@ -233,7 +233,7 @@
         "gold": 0.1612,
         "spx": 0.5513,
         "dxy": -0.377,
-        "nasdaq": 0.5408,
+        "nasdaq": null,
         "igv": 0.3672
       },
       {
@@ -241,7 +241,7 @@
         "gold": 0.162,
         "spx": 0.4166,
         "dxy": -0.3771,
-        "nasdaq": 0.4187,
+        "nasdaq": null,
         "igv": 0.3898
       },
       {
@@ -249,7 +249,7 @@
         "gold": 0.1261,
         "spx": 0.4356,
         "dxy": -0.363,
-        "nasdaq": 0.4303,
+        "nasdaq": null,
         "igv": 0.3849
       },
       {
@@ -257,7 +257,7 @@
         "gold": 0.1227,
         "spx": 0.4286,
         "dxy": -0.381,
-        "nasdaq": 0.4319,
+        "nasdaq": null,
         "igv": 0.3326
       },
       {
@@ -265,7 +265,7 @@
         "gold": 0.1245,
         "spx": 0.4534,
         "dxy": -0.4009,
-        "nasdaq": 0.4535,
+        "nasdaq": null,
         "igv": 0.3338
       },
       {
@@ -273,7 +273,7 @@
         "gold": 0.1203,
         "spx": 0.4512,
         "dxy": -0.4337,
-        "nasdaq": 0.4539,
+        "nasdaq": null,
         "igv": 0.3119
       },
       {
@@ -281,7 +281,7 @@
         "gold": 0.1015,
         "spx": 0.4749,
         "dxy": -0.4421,
-        "nasdaq": 0.474,
+        "nasdaq": null,
         "igv": 0.4615
       },
       {
@@ -289,7 +289,7 @@
         "gold": 0.0914,
         "spx": 0.4691,
         "dxy": -0.4477,
-        "nasdaq": 0.4591,
+        "nasdaq": null,
         "igv": 0.4562
       },
       {
@@ -297,7 +297,7 @@
         "gold": 0.1128,
         "spx": 0.455,
         "dxy": -0.4091,
-        "nasdaq": 0.447,
+        "nasdaq": null,
         "igv": 0.4337
       },
       {
@@ -305,7 +305,7 @@
         "gold": 0.1153,
         "spx": 0.4595,
         "dxy": -0.4095,
-        "nasdaq": 0.4533,
+        "nasdaq": null,
         "igv": 0.4436
       },
       {
@@ -313,7 +313,7 @@
         "gold": 0.0862,
         "spx": 0.4301,
         "dxy": -0.3477,
-        "nasdaq": 0.4307,
+        "nasdaq": null,
         "igv": 0.4343
       },
       {
@@ -321,7 +321,7 @@
         "gold": -0.0145,
         "spx": 0.4226,
         "dxy": -0.4912,
-        "nasdaq": 0.4249,
+        "nasdaq": null,
         "igv": 0.437
       },
       {
@@ -329,7 +329,7 @@
         "gold": -0.0042,
         "spx": 0.4685,
         "dxy": -0.526,
-        "nasdaq": 0.4717,
+        "nasdaq": null,
         "igv": 0.4426
       },
       {
@@ -337,7 +337,7 @@
         "gold": -0.0371,
         "spx": 0.4342,
         "dxy": -0.5213,
-        "nasdaq": 0.4386,
+        "nasdaq": null,
         "igv": 0.4635
       },
       {
@@ -345,7 +345,7 @@
         "gold": -0.0435,
         "spx": 0.4203,
         "dxy": -0.4971,
-        "nasdaq": 0.4275,
+        "nasdaq": null,
         "igv": 0.4661
       },
       {
@@ -353,7 +353,7 @@
         "gold": 0.1213,
         "spx": 0.4074,
         "dxy": -0.3734,
-        "nasdaq": 0.4251,
+        "nasdaq": null,
         "igv": 0.4681
       },
       {
@@ -361,7 +361,7 @@
         "gold": 0.1202,
         "spx": 0.4012,
         "dxy": -0.369,
-        "nasdaq": 0.4157,
+        "nasdaq": null,
         "igv": 0.4244
       },
       {
@@ -369,7 +369,7 @@
         "gold": 0.0988,
         "spx": 0.3824,
         "dxy": -0.3508,
-        "nasdaq": 0.3831,
+        "nasdaq": null,
         "igv": 0.4049
       },
       {
@@ -377,7 +377,7 @@
         "gold": -0.0876,
         "spx": 0.2877,
         "dxy": -0.291,
-        "nasdaq": 0.285,
+        "nasdaq": null,
         "igv": 0.4008
       },
       {
@@ -385,7 +385,7 @@
         "gold": 0.0494,
         "spx": 0.1429,
         "dxy": -0.2218,
-        "nasdaq": 0.1405,
+        "nasdaq": null,
         "igv": 0.3152
       },
       {
@@ -393,7 +393,7 @@
         "gold": 0.0837,
         "spx": 0.1486,
         "dxy": -0.219,
-        "nasdaq": 0.1462,
+        "nasdaq": null,
         "igv": 0.3087
       },
       {
@@ -401,7 +401,7 @@
         "gold": 0.1269,
         "spx": 0.1709,
         "dxy": -0.237,
-        "nasdaq": 0.1747,
+        "nasdaq": null,
         "igv": 0.3149
       },
       {
@@ -409,7 +409,7 @@
         "gold": 0.1373,
         "spx": 0.1949,
         "dxy": -0.2921,
-        "nasdaq": 0.2021,
+        "nasdaq": null,
         "igv": 0.3189
       },
       {
@@ -417,7 +417,7 @@
         "gold": 0.0779,
         "spx": 0.1143,
         "dxy": -0.2173,
-        "nasdaq": 0.124,
+        "nasdaq": null,
         "igv": 0.2838
       },
       {
@@ -425,7 +425,7 @@
         "gold": 0.1316,
         "spx": 0.1183,
         "dxy": -0.2008,
-        "nasdaq": 0.1493,
+        "nasdaq": null,
         "igv": 0.3168
       },
       {
@@ -433,7 +433,7 @@
         "gold": 0.0357,
         "spx": 0.1071,
         "dxy": -0.1433,
-        "nasdaq": 0.1377,
+        "nasdaq": null,
         "igv": 0.3326
       },
       {
@@ -441,7 +441,7 @@
         "gold": 0.0357,
         "spx": 0.1089,
         "dxy": -0.1441,
-        "nasdaq": 0.1396,
+        "nasdaq": null,
         "igv": 0.3327
       },
       {
@@ -449,7 +449,7 @@
         "gold": -0.0109,
         "spx": 0.0854,
         "dxy": -0.1147,
-        "nasdaq": 0.1236,
+        "nasdaq": null,
         "igv": 0.3429
       },
       {
@@ -457,7 +457,7 @@
         "gold": -0.0012,
         "spx": 0.114,
         "dxy": -0.1201,
-        "nasdaq": 0.1538,
+        "nasdaq": null,
         "igv": 0.3498
       },
       {
@@ -465,7 +465,7 @@
         "gold": 0.0028,
         "spx": 0.1126,
         "dxy": -0.1164,
-        "nasdaq": 0.1488,
+        "nasdaq": null,
         "igv": 0.3483
       },
       {
@@ -473,7 +473,7 @@
         "gold": -0.0083,
         "spx": 0.1922,
         "dxy": -0.087,
-        "nasdaq": 0.2244,
+        "nasdaq": null,
         "igv": 0.3085
       },
       {
@@ -481,7 +481,7 @@
         "gold": 0.0427,
         "spx": 0.3432,
         "dxy": -0.139,
-        "nasdaq": 0.3231,
+        "nasdaq": null,
         "igv": 0.296
       },
       {
@@ -489,7 +489,7 @@
         "gold": 0.0352,
         "spx": 0.3369,
         "dxy": -0.1309,
-        "nasdaq": 0.3166,
+        "nasdaq": null,
         "igv": 0.3389
       },
       {
@@ -497,7 +497,7 @@
         "gold": 0.0498,
         "spx": 0.341,
         "dxy": -0.1139,
-        "nasdaq": 0.3026,
+        "nasdaq": null,
         "igv": 0.3844
       },
       {
@@ -505,7 +505,7 @@
         "gold": 0.0499,
         "spx": 0.3408,
         "dxy": -0.1212,
-        "nasdaq": 0.3062,
+        "nasdaq": null,
         "igv": 0.3898
       },
       {
@@ -513,7 +513,7 @@
         "gold": 0.0845,
         "spx": 0.3519,
         "dxy": -0.1751,
-        "nasdaq": 0.3292,
+        "nasdaq": null,
         "igv": 0.4206
       },
       {
@@ -521,7 +521,7 @@
         "gold": 0.1187,
         "spx": 0.2401,
         "dxy": -0.1115,
-        "nasdaq": 0.2384,
+        "nasdaq": null,
         "igv": 0.2597
       },
       {
@@ -529,7 +529,7 @@
         "gold": 0.1319,
         "spx": 0.3093,
         "dxy": -0.0547,
-        "nasdaq": 0.2984,
+        "nasdaq": null,
         "igv": 0.2994
       },
       {
@@ -537,7 +537,7 @@
         "gold": 0.247,
         "spx": 0.3981,
         "dxy": -0.1244,
-        "nasdaq": 0.3804,
+        "nasdaq": null,
         "igv": 0.2491
       },
       {
@@ -545,7 +545,7 @@
         "gold": 0.2407,
         "spx": 0.4005,
         "dxy": -0.1221,
-        "nasdaq": 0.3844,
+        "nasdaq": null,
         "igv": 0.2491
       },
       {
@@ -553,7 +553,7 @@
         "gold": 0.169,
         "spx": 0.34,
         "dxy": -0.0906,
-        "nasdaq": 0.3353,
+        "nasdaq": null,
         "igv": 0.2436
       },
       {
@@ -561,7 +561,7 @@
         "gold": 0.1792,
         "spx": 0.3431,
         "dxy": -0.0773,
-        "nasdaq": 0.3408,
+        "nasdaq": null,
         "igv": 0.2327
       },
       {
@@ -569,7 +569,7 @@
         "gold": 0.2063,
         "spx": 0.3502,
         "dxy": -0.0971,
-        "nasdaq": 0.3466,
+        "nasdaq": null,
         "igv": 0.2391
       },
       {
@@ -577,7 +577,7 @@
         "gold": 0.2833,
         "spx": 0.4298,
         "dxy": -0.0974,
-        "nasdaq": 0.4215,
+        "nasdaq": null,
         "igv": 0.2217
       },
       {
@@ -585,7 +585,7 @@
         "gold": 0.3322,
         "spx": 0.4638,
         "dxy": -0.1175,
-        "nasdaq": 0.4429,
+        "nasdaq": null,
         "igv": 0.2185
       },
       {
@@ -593,7 +593,7 @@
         "gold": 0.2997,
         "spx": 0.357,
         "dxy": -0.1777,
-        "nasdaq": 0.3609,
+        "nasdaq": null,
         "igv": 0.083
       },
       {
@@ -601,7 +601,7 @@
         "gold": 0.3004,
         "spx": 0.3463,
         "dxy": -0.1808,
-        "nasdaq": 0.3563,
+        "nasdaq": null,
         "igv": 0.12
       },
       {
@@ -609,7 +609,7 @@
         "gold": 0.3174,
         "spx": 0.3827,
         "dxy": -0.217,
-        "nasdaq": 0.4197,
+        "nasdaq": null,
         "igv": 0.1536
       },
       {
@@ -617,7 +617,7 @@
         "gold": 0.3177,
         "spx": 0.3811,
         "dxy": -0.2173,
-        "nasdaq": 0.4181,
+        "nasdaq": null,
         "igv": 0.1522
       },
       {
@@ -625,7 +625,7 @@
         "gold": 0.322,
         "spx": 0.345,
         "dxy": -0.1805,
-        "nasdaq": 0.3583,
+        "nasdaq": null,
         "igv": 0.171
       },
       {
@@ -633,7 +633,7 @@
         "gold": 0.3314,
         "spx": 0.3505,
         "dxy": -0.1892,
-        "nasdaq": 0.3626,
+        "nasdaq": null,
         "igv": 0.2144
       },
       {
@@ -641,7 +641,7 @@
         "gold": 0.2608,
         "spx": 0.3048,
         "dxy": -0.157,
-        "nasdaq": 0.3102,
+        "nasdaq": null,
         "igv": 0.1394
       },
       {
@@ -649,7 +649,7 @@
         "gold": 0.2386,
         "spx": 0.2998,
         "dxy": -0.1413,
-        "nasdaq": 0.3069,
+        "nasdaq": null,
         "igv": 0.0893
       },
       {
@@ -657,7 +657,7 @@
         "gold": 0.2183,
         "spx": 0.2757,
         "dxy": -0.0981,
-        "nasdaq": 0.289,
+        "nasdaq": null,
         "igv": 0.1002
       },
       {
@@ -665,7 +665,7 @@
         "gold": 0.2076,
         "spx": 0.2778,
         "dxy": -0.1391,
-        "nasdaq": 0.255,
+        "nasdaq": null,
         "igv": -0.0018
       },
       {
@@ -673,7 +673,7 @@
         "gold": 0.3018,
         "spx": 0.2533,
         "dxy": -0.2077,
-        "nasdaq": 0.2294,
+        "nasdaq": null,
         "igv": -0.1913
       },
       {
@@ -681,7 +681,7 @@
         "gold": 0.1879,
         "spx": 0.2082,
         "dxy": -0.1536,
-        "nasdaq": 0.2152,
+        "nasdaq": null,
         "igv": 0.0649
       },
       {
@@ -689,7 +689,7 @@
         "gold": 0.3649,
         "spx": 0.3458,
         "dxy": -0.2704,
-        "nasdaq": 0.3152,
+        "nasdaq": null,
         "igv": 0.1711
       },
       {
@@ -697,7 +697,7 @@
         "gold": 0.3443,
         "spx": 0.3151,
         "dxy": -0.2754,
-        "nasdaq": 0.2822,
+        "nasdaq": null,
         "igv": 0.1847
       },
       {
@@ -705,7 +705,7 @@
         "gold": 0.4429,
         "spx": 0.438,
         "dxy": -0.3662,
-        "nasdaq": 0.416,
+        "nasdaq": null,
         "igv": 0.304
       },
       {
@@ -713,7 +713,7 @@
         "gold": 0.4592,
         "spx": 0.4315,
         "dxy": -0.3624,
-        "nasdaq": 0.4146,
+        "nasdaq": null,
         "igv": 0.3339
       },
       {
@@ -721,7 +721,7 @@
         "gold": 0.4315,
         "spx": 0.3817,
         "dxy": -0.3445,
-        "nasdaq": 0.3704,
+        "nasdaq": null,
         "igv": 0.2969
       },
       {
@@ -729,7 +729,7 @@
         "gold": 0.4302,
         "spx": 0.3868,
         "dxy": -0.3423,
-        "nasdaq": 0.3746,
+        "nasdaq": null,
         "igv": 0.299
       },
       {
@@ -737,7 +737,7 @@
         "gold": 0.445,
         "spx": 0.4034,
         "dxy": -0.3052,
-        "nasdaq": 0.3966,
+        "nasdaq": null,
         "igv": 0.3304
       },
       {
@@ -745,7 +745,7 @@
         "gold": 0.3539,
         "spx": 0.3448,
         "dxy": -0.3075,
-        "nasdaq": 0.3562,
+        "nasdaq": null,
         "igv": 0.3228
       },
       {
@@ -753,7 +753,7 @@
         "gold": 0.3278,
         "spx": 0.4418,
         "dxy": -0.3273,
-        "nasdaq": 0.4486,
+        "nasdaq": null,
         "igv": 0.2728
       },
       {
@@ -761,7 +761,7 @@
         "gold": 0.3258,
         "spx": 0.4587,
         "dxy": -0.3271,
-        "nasdaq": 0.473,
+        "nasdaq": null,
         "igv": 0.2667
       },
       {
@@ -769,7 +769,7 @@
         "gold": 0.3421,
         "spx": 0.4274,
         "dxy": -0.446,
-        "nasdaq": 0.4489,
+        "nasdaq": null,
         "igv": 0.2275
       },
       {
@@ -777,7 +777,7 @@
         "gold": 0.3139,
         "spx": 0.3946,
         "dxy": -0.4176,
-        "nasdaq": 0.4207,
+        "nasdaq": null,
         "igv": 0.2411
       },
       {
@@ -785,7 +785,7 @@
         "gold": 0.3363,
         "spx": 0.409,
         "dxy": -0.4283,
-        "nasdaq": 0.4278,
+        "nasdaq": null,
         "igv": 0.2573
       },
       {
@@ -793,7 +793,7 @@
         "gold": 0.3355,
         "spx": 0.4104,
         "dxy": -0.4221,
-        "nasdaq": 0.4284,
+        "nasdaq": null,
         "igv": 0.2604
       },
       {
@@ -801,7 +801,7 @@
         "gold": 0.3203,
         "spx": 0.4214,
         "dxy": -0.4408,
-        "nasdaq": 0.4393,
+        "nasdaq": null,
         "igv": 0.2761
       },
       {
@@ -809,7 +809,7 @@
         "gold": 0.3537,
         "spx": 0.3826,
         "dxy": -0.4632,
-        "nasdaq": 0.3886,
+        "nasdaq": null,
         "igv": 0.2757
       },
       {
@@ -817,7 +817,7 @@
         "gold": 0.3459,
         "spx": 0.361,
         "dxy": -0.4517,
-        "nasdaq": 0.3681,
+        "nasdaq": null,
         "igv": 0.2622
       },
       {
@@ -825,7 +825,7 @@
         "gold": 0.3443,
         "spx": 0.3553,
         "dxy": -0.4551,
-        "nasdaq": 0.3639,
+        "nasdaq": null,
         "igv": 0.2656
       },
       {
@@ -833,7 +833,7 @@
         "gold": 0.3417,
         "spx": 0.3742,
         "dxy": -0.4467,
-        "nasdaq": 0.3724,
+        "nasdaq": null,
         "igv": 0.2956
       },
       {
@@ -841,7 +841,7 @@
         "gold": 0.323,
         "spx": 0.3635,
         "dxy": -0.4272,
-        "nasdaq": 0.3416,
+        "nasdaq": null,
         "igv": 0.2706
       },
       {
@@ -849,7 +849,7 @@
         "gold": 0.3311,
         "spx": 0.3801,
         "dxy": -0.4378,
-        "nasdaq": 0.359,
+        "nasdaq": null,
         "igv": 0.2661
       },
       {
@@ -857,7 +857,7 @@
         "gold": 0.361,
         "spx": 0.3776,
         "dxy": -0.4429,
-        "nasdaq": 0.3615,
+        "nasdaq": null,
         "igv": 0.275
       },
       {
@@ -865,7 +865,7 @@
         "gold": 0.3372,
         "spx": 0.3928,
         "dxy": -0.4353,
-        "nasdaq": 0.3878,
+        "nasdaq": null,
         "igv": 0.2873
       },
       {
@@ -873,7 +873,7 @@
         "gold": 0.3413,
         "spx": 0.3952,
         "dxy": -0.4464,
-        "nasdaq": 0.3901,
+        "nasdaq": null,
         "igv": 0.2987
       },
       {
@@ -881,7 +881,7 @@
         "gold": 0.3533,
         "spx": 0.4045,
         "dxy": -0.4646,
-        "nasdaq": 0.4005,
+        "nasdaq": null,
         "igv": 0.3155
       },
       {
@@ -889,7 +889,7 @@
         "gold": 0.353,
         "spx": 0.4031,
         "dxy": -0.4637,
-        "nasdaq": 0.3992,
+        "nasdaq": null,
         "igv": 0.346
       },
       {
@@ -897,7 +897,7 @@
         "gold": 0.3284,
         "spx": 0.4218,
         "dxy": -0.4764,
-        "nasdaq": 0.4183,
+        "nasdaq": null,
         "igv": 0.3622
       },
       {
@@ -905,7 +905,7 @@
         "gold": 0.3149,
         "spx": 0.3834,
         "dxy": -0.4699,
-        "nasdaq": 0.3705,
+        "nasdaq": null,
         "igv": 0.3388
       },
       {
@@ -913,7 +913,7 @@
         "gold": 0.3201,
         "spx": 0.3823,
         "dxy": -0.4123,
-        "nasdaq": 0.3611,
+        "nasdaq": null,
         "igv": 0.59
       },
       {
@@ -921,7 +921,7 @@
         "gold": 0.4305,
         "spx": 0.4463,
         "dxy": -0.5381,
-        "nasdaq": 0.3882,
+        "nasdaq": null,
         "igv": 0.5575
       },
       {
@@ -929,7 +929,7 @@
         "gold": 0.4205,
         "spx": 0.422,
         "dxy": -0.5125,
-        "nasdaq": 0.377,
+        "nasdaq": null,
         "igv": 0.4829
       },
       {
@@ -937,7 +937,7 @@
         "gold": 0.4291,
         "spx": 0.4255,
         "dxy": -0.5203,
-        "nasdaq": 0.3771,
+        "nasdaq": null,
         "igv": 0.4835
       },
       {
@@ -945,7 +945,7 @@
         "gold": 0.3339,
         "spx": 0.2515,
         "dxy": -0.4078,
-        "nasdaq": 0.196,
+        "nasdaq": null,
         "igv": 0.3581
       },
       {
@@ -953,7 +953,7 @@
         "gold": 0.3385,
         "spx": 0.2564,
         "dxy": -0.4094,
-        "nasdaq": 0.2019,
+        "nasdaq": null,
         "igv": 0.362
       },
       {
@@ -961,7 +961,7 @@
         "gold": 0.3589,
         "spx": 0.2968,
         "dxy": -0.448,
-        "nasdaq": 0.2396,
+        "nasdaq": null,
         "igv": 0.3971
       },
       {
@@ -969,7 +969,7 @@
         "gold": 0.3821,
         "spx": 0.3076,
         "dxy": -0.4233,
-        "nasdaq": 0.2358,
+        "nasdaq": null,
         "igv": 0.4187
       },
       {
@@ -977,7 +977,7 @@
         "gold": 0.3711,
         "spx": 0.3196,
         "dxy": -0.4863,
-        "nasdaq": 0.231,
+        "nasdaq": null,
         "igv": 0.3856
       },
       {
@@ -985,7 +985,7 @@
         "gold": 0.3709,
         "spx": 0.337,
         "dxy": -0.4819,
-        "nasdaq": 0.2286,
+        "nasdaq": null,
         "igv": 0.3412
       },
       {
@@ -993,7 +993,7 @@
         "gold": 0.4226,
         "spx": 0.214,
         "dxy": -0.4781,
-        "nasdaq": 0.105,
+        "nasdaq": null,
         "igv": 0.4071
       },
       {
@@ -1001,7 +1001,7 @@
         "gold": 0.468,
         "spx": 0.2167,
         "dxy": -0.4816,
-        "nasdaq": 0.1054,
+        "nasdaq": null,
         "igv": 0.4073
       },
       {
@@ -1009,7 +1009,7 @@
         "gold": 0.5196,
         "spx": 0.273,
         "dxy": -0.5098,
-        "nasdaq": 0.1697,
+        "nasdaq": null,
         "igv": 0.3912
       },
       {
@@ -1017,7 +1017,7 @@
         "gold": 0.5664,
         "spx": 0.2944,
         "dxy": -0.5705,
-        "nasdaq": 0.2199,
+        "nasdaq": null,
         "igv": 0.4104
       },
       {
@@ -1025,7 +1025,7 @@
         "gold": 0.577,
         "spx": 0.2769,
         "dxy": -0.5215,
-        "nasdaq": 0.1933,
+        "nasdaq": null,
         "igv": 0.3994
       },
       {
@@ -1033,7 +1033,7 @@
         "gold": 0.5953,
         "spx": 0.2813,
         "dxy": -0.5444,
-        "nasdaq": 0.2061,
+        "nasdaq": null,
         "igv": 0.3909
       },
       {
@@ -1041,7 +1041,7 @@
         "gold": 0.6332,
         "spx": 0.2098,
         "dxy": -0.5216,
-        "nasdaq": 0.1599,
+        "nasdaq": null,
         "igv": 0.3474
       },
       {
@@ -1049,7 +1049,7 @@
         "gold": 0.5971,
         "spx": 0.33,
         "dxy": -0.4683,
-        "nasdaq": 0.2804,
+        "nasdaq": null,
         "igv": 0.3444
       },
       {
@@ -1057,7 +1057,7 @@
         "gold": 0.5965,
         "spx": 0.3307,
         "dxy": -0.4709,
-        "nasdaq": 0.2786,
+        "nasdaq": null,
         "igv": 0.3487
       },
       {
@@ -1065,306 +1065,306 @@
         "gold": 0.5968,
         "spx": 0.3252,
         "dxy": -0.4434,
-        "nasdaq": 0.278,
+        "nasdaq": null,
         "igv": 0.3527
       },
       {
         "date": "2026-07-21",
         "gold": 0.6306,
-        "spx": 0.3699,
+        "spx": 0.3274,
         "dxy": -0.4057,
-        "nasdaq": 0.2864,
+        "nasdaq": null,
         "igv": 0.3034
       },
       {
         "date": "2026-07-22",
         "gold": 0.6022,
-        "spx": 0.3912,
+        "spx": 0.3435,
         "dxy": -0.4223,
-        "nasdaq": 0.32,
+        "nasdaq": null,
         "igv": 0.3534
       },
       {
         "date": "2026-07-23",
         "gold": 0.6056,
-        "spx": 0.3711,
+        "spx": 0.2946,
         "dxy": -0.4047,
-        "nasdaq": 0.2904,
+        "nasdaq": null,
         "igv": 0.3952
       },
       {
         "date": "2026-07-24",
         "gold": 0.5195,
-        "spx": 0.3689,
+        "spx": 0.2874,
         "dxy": -0.3725,
-        "nasdaq": 0.2965,
+        "nasdaq": null,
         "igv": 0.3328
       },
       {
         "date": "2026-07-25",
         "gold": 0.5883,
-        "spx": 0.3789,
+        "spx": 0.2939,
         "dxy": -0.4372,
-        "nasdaq": 0.285,
+        "nasdaq": null,
         "igv": 0.2911
       },
       {
         "date": "2026-07-26",
         "gold": 0.5872,
-        "spx": 0.3738,
+        "spx": 0.2896,
         "dxy": -0.4317,
-        "nasdaq": 0.2844,
+        "nasdaq": null,
         "igv": 0.3204
       },
       {
         "date": "2026-07-27",
         "gold": 0.5508,
-        "spx": 0.3571,
+        "spx": 0.277,
         "dxy": -0.4215,
-        "nasdaq": 0.28,
+        "nasdaq": null,
         "igv": 0.1349
       },
       {
         "date": "2026-07-28",
         "gold": 0.5474,
-        "spx": 0.3571,
+        "spx": 0.2764,
         "dxy": -0.4208,
-        "nasdaq": 0.2823,
+        "nasdaq": null,
         "igv": 0.133
       },
       {
         "date": "2026-07-29",
         "gold": 0.5854,
-        "spx": 0.3158,
+        "spx": 0.2313,
         "dxy": -0.3526,
-        "nasdaq": 0.2618,
+        "nasdaq": null,
         "igv": 0.1135
       },
       {
         "date": "2026-07-30",
         "gold": 0.6234,
-        "spx": 0.4435,
+        "spx": 0.3732,
         "dxy": -0.3513,
-        "nasdaq": 0.4248,
+        "nasdaq": null,
         "igv": 0.1672
       },
       {
         "date": "2026-07-31",
         "gold": 0.6287,
-        "spx": 0.3579,
+        "spx": 0.3738,
         "dxy": -0.3423,
-        "nasdaq": 0.4292,
+        "nasdaq": null,
         "igv": -0.0098
       },
       {
         "date": "2026-08-01",
         "gold": 0.6116,
-        "spx": 0.3718,
+        "spx": 0.3861,
         "dxy": -0.2766,
-        "nasdaq": 0.4876,
+        "nasdaq": null,
         "igv": -0.0183
       },
       {
         "date": "2026-08-02",
         "gold": 0.618,
-        "spx": 0.3761,
+        "spx": 0.39,
         "dxy": -0.2816,
-        "nasdaq": 0.4919,
+        "nasdaq": null,
         "igv": -0.0181
       },
       {
         "date": "2026-08-03",
         "gold": 0.6198,
-        "spx": 0.3451,
+        "spx": 0.3135,
         "dxy": -0.2838,
-        "nasdaq": 0.4117,
+        "nasdaq": null,
         "igv": -0.0192
       },
       {
         "date": "2026-08-04",
         "gold": 0.6253,
-        "spx": 0.3601,
+        "spx": 0.3314,
         "dxy": -0.2883,
-        "nasdaq": 0.4214,
+        "nasdaq": null,
         "igv": 0.0431
       },
       {
         "date": "2026-08-05",
         "gold": 0.5821,
-        "spx": 0.3444,
+        "spx": 0.3155,
         "dxy": -0.2992,
-        "nasdaq": 0.3956,
+        "nasdaq": null,
         "igv": 0.0226
       },
       {
         "date": "2026-08-06",
         "gold": 0.5822,
-        "spx": 0.3353,
+        "spx": 0.306,
         "dxy": -0.2844,
-        "nasdaq": 0.3803,
+        "nasdaq": null,
         "igv": 0.0243
       },
       {
         "date": "2026-08-07",
         "gold": 0.5605,
-        "spx": 0.3326,
+        "spx": 0.3029,
         "dxy": -0.3136,
-        "nasdaq": 0.4036,
+        "nasdaq": null,
         "igv": 0.0106
       },
       {
         "date": "2026-08-08",
         "gold": 0.547,
-        "spx": 0.3124,
+        "spx": 0.2818,
         "dxy": -0.3108,
-        "nasdaq": 0.3841,
+        "nasdaq": null,
         "igv": -0.0115
       },
       {
         "date": "2026-08-09",
         "gold": 0.5807,
-        "spx": 0.3038,
+        "spx": 0.2727,
         "dxy": -0.3264,
-        "nasdaq": 0.3842,
+        "nasdaq": null,
         "igv": 0.0279
       },
       {
         "date": "2026-08-10",
         "gold": 0.5625,
-        "spx": 0.3043,
+        "spx": 0.2737,
         "dxy": -0.3479,
-        "nasdaq": 0.3882,
+        "nasdaq": null,
         "igv": -0.0146
       },
       {
         "date": "2026-08-11",
         "gold": 0.558,
-        "spx": 0.3089,
+        "spx": 0.2785,
         "dxy": -0.3491,
-        "nasdaq": 0.3923,
+        "nasdaq": null,
         "igv": -0.0033
       },
       {
         "date": "2026-08-12",
         "gold": 0.4966,
-        "spx": 0.2586,
+        "spx": 0.2261,
         "dxy": -0.2979,
-        "nasdaq": 0.3384,
+        "nasdaq": null,
         "igv": -0.0013
       },
       {
         "date": "2026-08-13",
         "gold": 0.4625,
-        "spx": 0.2654,
+        "spx": 0.2262,
         "dxy": -0.2154,
-        "nasdaq": 0.3219,
+        "nasdaq": null,
         "igv": -0.0456
       },
       {
         "date": "2026-08-14",
         "gold": 0.4566,
-        "spx": 0.2745,
+        "spx": 0.2354,
         "dxy": -0.2167,
-        "nasdaq": 0.3312,
+        "nasdaq": null,
         "igv": -0.0205
       },
       {
         "date": "2026-08-15",
         "gold": 0.4214,
-        "spx": 0.2486,
+        "spx": 0.2082,
         "dxy": -0.1802,
-        "nasdaq": 0.2919,
+        "nasdaq": null,
         "igv": -0.036
       },
       {
         "date": "2026-08-16",
         "gold": 0.4216,
-        "spx": 0.2722,
+        "spx": 0.2299,
         "dxy": -0.183,
-        "nasdaq": 0.3123,
+        "nasdaq": null,
         "igv": -0.0296
       },
       {
         "date": "2026-08-17",
         "gold": 0.4412,
-        "spx": 0.1865,
+        "spx": 0.1476,
         "dxy": -0.1757,
-        "nasdaq": 0.2637,
+        "nasdaq": null,
         "igv": -0.1174
       },
       {
         "date": "2026-08-18",
         "gold": 0.4183,
-        "spx": 0.1729,
+        "spx": 0.135,
         "dxy": -0.1733,
-        "nasdaq": 0.2449,
+        "nasdaq": null,
         "igv": -0.1197
       },
       {
         "date": "2026-08-19",
-        "gold": 0.415,
-        "spx": 0.188,
-        "dxy": -0.2171,
-        "nasdaq": 0.2464,
-        "igv": -0.1219
+        "gold": 0.4573,
+        "spx": 0.162,
+        "dxy": -0.2733,
+        "nasdaq": null,
+        "igv": -0.1168
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 64970.01,
-      "change_7d_pct": 2.47,
-      "change_30d_pct": -2.31,
-      "change_90d_pct": -13.93,
-      "ma_200": 68973.59
+      "last": 65475.98,
+      "change_7d_pct": 3.27,
+      "change_30d_pct": -1.55,
+      "change_90d_pct": -13.26,
+      "ma_200": 68976.12
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1929.12,
-      "change_7d_pct": 2.4,
-      "change_30d_pct": 0.04,
-      "change_90d_pct": -6.56,
-      "ma_200": 2001.66
+      "last": 1940.76,
+      "change_7d_pct": 3.01,
+      "change_30d_pct": 0.64,
+      "change_90d_pct": -6.0,
+      "ma_200": 2001.71
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4519.3,
-      "change_7d_pct": 3.57,
-      "change_30d_pct": 11.01,
-      "change_90d_pct": -0.04,
-      "ma_200": 4548.51
+      "last": 4549.1,
+      "change_7d_pct": 4.25,
+      "change_30d_pct": 11.74,
+      "change_90d_pct": 0.62,
+      "ma_200": 4548.66
     },
     "SPX": {
       "name": "S&P 500",
-      "last": 7715.73,
-      "change_7d_pct": -1.07,
-      "change_30d_pct": 2.75,
-      "change_90d_pct": 3.24,
-      "ma_200": 7192.57
+      "last": 7730.81,
+      "change_7d_pct": -0.87,
+      "change_30d_pct": 3.86,
+      "change_90d_pct": 3.44,
+      "ma_200": 7191.25
     },
     "NASDAQ": {
       "name": "Nasdaq",
-      "last": 26248.22,
-      "change_7d_pct": -2.07,
-      "change_30d_pct": 2.9,
-      "change_90d_pct": -0.36,
-      "ma_200": 24595.41
+      "last": null,
+      "change_7d_pct": null,
+      "change_30d_pct": null,
+      "change_90d_pct": null,
+      "ma_200": null
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 98.96,
-      "change_7d_pct": -1.0,
-      "change_30d_pct": -2.2,
-      "change_90d_pct": -0.36,
+      "last": 98.77,
+      "change_7d_pct": -1.19,
+      "change_30d_pct": -2.38,
+      "change_90d_pct": -0.55,
       "ma_200": 99.36
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
-      "last": 101.8,
-      "change_7d_pct": -4.22,
-      "change_30d_pct": 10.87,
-      "change_90d_pct": 8.31,
+      "last": 102.31,
+      "change_7d_pct": -3.74,
+      "change_30d_pct": 11.42,
+      "change_90d_pct": 8.84,
       "ma_200": 88.86
     }
   },
