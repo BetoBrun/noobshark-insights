@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T21:46:11.516191+00:00",
-  "updated_at_brt": "02/09/2026 18:46",
+  "updated_at": "2026-09-03T00:09:39.987525+00:00",
+  "updated_at_brt": "02/09/2026 21:09",
   "headline": "Semáforo Amarelo: Neutro com cautela",
   "executive_summary": "O modelo classifica o mercado como neutro com cautela. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,26 +16,18 @@
     "global_risk": 63.0,
     "btc_cycle": 66.0,
     "altseason_window": 65.0,
-    "tech_correlation": 0.1103
+    "tech_correlation": 0.1122
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.5693,
-      "SPX": 0.0628,
-      "DXY": -0.543,
-      "NASDAQ": 0.0819,
-      "IGV": 0.1863
+      "GOLD": 0.5794,
+      "SPX": 0.0656,
+      "DXY": -0.545,
+      "NASDAQ": 0.0868,
+      "IGV": 0.1843
     },
     "series": [
-      {
-        "date": "2026-03-27",
-        "gold": 0.0696,
-        "spx": 0.6487,
-        "dxy": -0.1373,
-        "nasdaq": 0.6662,
-        "igv": 0.2863
-      },
       {
         "date": "2026-03-28",
         "gold": 0.0691,
@@ -1302,74 +1294,82 @@
       },
       {
         "date": "2026-09-02",
-        "gold": 0.5693,
-        "spx": 0.0628,
-        "dxy": -0.543,
-        "nasdaq": 0.0819,
-        "igv": 0.1863
+        "gold": 0.5737,
+        "spx": 0.0641,
+        "dxy": -0.5464,
+        "nasdaq": 0.0827,
+        "igv": 0.1775
+      },
+      {
+        "date": "2026-09-03",
+        "gold": 0.5794,
+        "spx": 0.0656,
+        "dxy": -0.545,
+        "nasdaq": 0.0868,
+        "igv": 0.1843
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 77323.51,
-      "change_7d_pct": -3.66,
-      "change_30d_pct": 20.71,
-      "change_90d_pct": 26.92,
-      "ma_200": 69505.9
+      "last": 77154.78,
+      "change_7d_pct": -0.87,
+      "change_30d_pct": 19.44,
+      "change_90d_pct": 26.76,
+      "ma_200": 69548.13
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 2391.52,
-      "change_7d_pct": -4.74,
-      "change_30d_pct": 28.0,
-      "change_90d_pct": 51.28,
-      "ma_200": 2028.63
+      "last": 2387.32,
+      "change_7d_pct": -2.26,
+      "change_30d_pct": 25.22,
+      "change_90d_pct": 52.18,
+      "ma_200": 2030.87
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4434.3,
-      "change_7d_pct": -3.81,
-      "change_30d_pct": 8.28,
-      "change_90d_pct": 2.24,
-      "ma_200": 4521.13
+      "last": 4430.4,
+      "change_7d_pct": -1.07,
+      "change_30d_pct": 4.35,
+      "change_90d_pct": 2.15,
+      "ma_200": 4518.15
     },
     "SPX": {
       "name": "S&P 500",
       "last": 7666.6,
-      "change_7d_pct": -0.83,
-      "change_30d_pct": -0.9,
+      "change_7d_pct": -0.59,
+      "change_30d_pct": -0.74,
       "change_90d_pct": 3.83,
-      "ma_200": 7246.81
+      "ma_200": 7250.96
     },
     "NASDAQ": {
       "name": "Nasdaq",
       "last": 26217.83,
-      "change_7d_pct": -1.22,
-      "change_30d_pct": -1.38,
+      "change_7d_pct": -0.7,
+      "change_30d_pct": -0.55,
       "change_90d_pct": 1.98,
-      "ma_200": 24828.97
+      "ma_200": 24847.32
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 99.56,
-      "change_7d_pct": 0.4,
-      "change_30d_pct": -0.33,
-      "change_90d_pct": -0.51,
-      "ma_200": 99.5
+      "last": 99.6,
+      "change_7d_pct": -0.1,
+      "change_30d_pct": -0.09,
+      "change_90d_pct": -0.47,
+      "ma_200": 99.52
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
-      "last": 103.42,
-      "change_7d_pct": -6.25,
-      "change_30d_pct": 1.39,
-      "change_90d_pct": 7.92,
-      "ma_200": 90.37
+      "last": 106.18,
+      "change_7d_pct": -3.03,
+      "change_30d_pct": 4.81,
+      "change_90d_pct": 10.8,
+      "ma_200": 90.5
     }
   },
   "fear_greed": {
-    "value": 63,
+    "value": 65,
     "classification": "Greed"
   },
   "insights": [
@@ -1378,7 +1378,7 @@
       "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
     },
     {
-      "title": "Fear & Greed: 63 — Greed",
+      "title": "Fear & Greed: 65 — Greed",
       "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
     },
     {
