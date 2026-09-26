@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T13:00:52.884144+00:00",
-  "updated_at_brt": "26/09/2026 10:00",
+  "updated_at": "2026-09-26T17:06:23.081065+00:00",
+  "updated_at_brt": "26/09/2026 14:06",
   "headline": "Semáforo Verde: Risk-on controlado",
   "executive_summary": "O modelo classifica o mercado como risk-on controlado. O regime atual indica btc como tech/growth, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,16 +16,16 @@
     "global_risk": 67.0,
     "btc_cycle": 75.0,
     "altseason_window": 69.0,
-    "tech_correlation": 0.6076
+    "tech_correlation": 0.6077
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.4701,
-      "SPX": 0.6334,
-      "DXY": -0.3138,
+      "GOLD": 0.4703,
+      "SPX": 0.6335,
+      "DXY": -0.3139,
       "NASDAQ": 0.6996,
-      "IGV": 0.4899
+      "IGV": 0.49
     },
     "series": [
       {
@@ -1302,29 +1302,29 @@
       },
       {
         "date": "2026-09-26",
-        "gold": 0.4701,
-        "spx": 0.6334,
-        "dxy": -0.3138,
+        "gold": 0.4703,
+        "spx": 0.6335,
+        "dxy": -0.3139,
         "nasdaq": 0.6996,
-        "igv": 0.4899
+        "igv": 0.49
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 84034.31,
-      "change_7d_pct": 3.56,
-      "change_30d_pct": 7.97,
-      "change_90d_pct": 39.73,
-      "ma_200": 70999.6
+      "last": 84070.01,
+      "change_7d_pct": 3.61,
+      "change_30d_pct": 8.02,
+      "change_90d_pct": 39.79,
+      "ma_200": 70999.78
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 2688.21,
-      "change_7d_pct": 1.71,
-      "change_30d_pct": 10.06,
-      "change_90d_pct": 66.95,
+      "last": 2688.63,
+      "change_7d_pct": 1.73,
+      "change_30d_pct": 10.08,
+      "change_90d_pct": 66.97,
       "ma_200": 2097.6
     },
     "GOLD": {
