@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T21:35:57.509523+00:00",
-  "updated_at_brt": "10/10/2026 18:35",
+  "updated_at": "2026-10-11T00:56:31.741654+00:00",
+  "updated_at_brt": "10/10/2026 21:56",
   "headline": "Semáforo Amarelo: Neutro com cautela",
   "executive_summary": "O modelo classifica o mercado como neutro com cautela. O regime atual indica btc como tech/growth, enquanto o sinalizador de altcoins aponta: janela de altcoins abrindo. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -16,16 +16,16 @@
     "global_risk": 64.0,
     "btc_cycle": 70.0,
     "altseason_window": 58.0,
-    "tech_correlation": 0.4512
+    "tech_correlation": 0.4518
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.1845,
-      "SPX": 0.4895,
-      "DXY": -0.0094,
-      "NASDAQ": 0.5467,
-      "IGV": 0.3173
+      "GOLD": 0.1841,
+      "SPX": 0.4901,
+      "DXY": -0.0083,
+      "NASDAQ": 0.5473,
+      "IGV": 0.3181
     },
     "series": [
       {
@@ -1301,31 +1301,31 @@
         "igv": 0.3377
       },
       {
-        "date": "2026-10-10",
-        "gold": 0.1845,
-        "spx": 0.4895,
-        "dxy": -0.0094,
-        "nasdaq": 0.5467,
-        "igv": 0.3173
+        "date": "2026-10-11",
+        "gold": 0.1841,
+        "spx": 0.4901,
+        "dxy": -0.0083,
+        "nasdaq": 0.5473,
+        "igv": 0.3181
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 83005.67,
-      "change_7d_pct": -4.02,
-      "change_30d_pct": 7.56,
-      "change_90d_pct": 33.37,
-      "ma_200": 71918.73
+      "last": 82887.83,
+      "change_7d_pct": -4.15,
+      "change_30d_pct": 7.4,
+      "change_90d_pct": 33.18,
+      "ma_200": 71918.14
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 2506.79,
-      "change_7d_pct": -8.06,
-      "change_30d_pct": -0.32,
-      "change_90d_pct": 41.35,
-      "ma_200": 2132.05
+      "last": 2501.76,
+      "change_7d_pct": -8.24,
+      "change_30d_pct": -0.52,
+      "change_90d_pct": 41.06,
+      "ma_200": 2132.02
     },
     "GOLD": {
       "name": "Ouro",
@@ -1369,7 +1369,7 @@
     }
   },
   "fear_greed": {
-    "value": 64,
+    "value": 61,
     "classification": "Greed"
   },
   "insights": [
@@ -1382,7 +1382,7 @@
       "text": "DXY subindo em 30 dias costuma reduzir o apetite por cripto e tecnologia. Longs exigem mais confirmação."
     },
     {
-      "title": "Fear & Greed: 64 — Greed",
+      "title": "Fear & Greed: 61 — Greed",
       "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
     },
     {
