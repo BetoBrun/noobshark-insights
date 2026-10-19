@@ -1,34 +1,108 @@
 {
-  "updated_at": "2026-10-19T15:32:27.618013+00:00",
-  "updated_at_brt": "19/10/2026 12:32",
-  "headline": "Dados indisponíveis no momento",
-  "executive_summary": "O script não conseguiu atualizar as fontes. Erro: não foi possível obter preços suficientes",
+  "updated_at": "2026-10-19T21:00:39.364764+00:00",
+  "updated_at_brt": "19/10/2026 18:00",
+  "headline": "Semáforo Amarelo: Neutro com cautela",
+  "executive_summary": "O modelo classifica o mercado como neutro com cautela. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
     "color": "yellow",
     "label": "Amarelo",
-    "text": "Falha de dados. Não tomar decisão com base nesta leitura."
+    "text": "Mercado misto. Priorizar confirmação, menor tamanho e evitar alavancagem excessiva."
   },
-  "model_posture": "Dados insuficientes",
-  "market_regime": "Indefinido",
-  "btc_regime": "Indefinido",
-  "altseason_regime": "Indefinido",
+  "model_posture": "Neutro com cautela",
+  "market_regime": "BTC em regime misto",
+  "btc_regime": "BTC em transição",
+  "altseason_regime": "Altcoins em preparação",
   "scores": {
-    "global_risk": 50,
-    "btc_cycle": 50,
-    "altseason_window": 50,
-    "tech_correlation": 0
+    "global_risk": 47.0,
+    "btc_cycle": 53.0,
+    "altseason_window": 47.0,
+    "tech_correlation": 0.0
   },
   "correlations": {
     "window": 30,
-    "current": {},
+    "current": {
+      "GOLD": null,
+      "SPX": null,
+      "DXY": null,
+      "NASDAQ": null,
+      "IGV": null
+    },
     "series": []
   },
-  "markets": {},
-  "fear_greed": null,
+  "markets": {
+    "BTC": {
+      "name": "Bitcoin",
+      "last": null,
+      "change_7d_pct": null,
+      "change_30d_pct": null,
+      "change_90d_pct": null,
+      "ma_200": null
+    },
+    "ETH": {
+      "name": "Ethereum",
+      "last": 2399.63,
+      "change_7d_pct": -3.89,
+      "change_30d_pct": -9.21,
+      "change_90d_pct": 24.11,
+      "ma_200": 2149.26
+    },
+    "GOLD": {
+      "name": "Ouro",
+      "last": 4157.0,
+      "change_7d_pct": -0.49,
+      "change_30d_pct": -6.05,
+      "change_90d_pct": 0.12,
+      "ma_200": 4392.76
+    },
+    "SPX": {
+      "name": "S&P 500",
+      "last": 7690.73,
+      "change_7d_pct": -1.47,
+      "change_30d_pct": 0.53,
+      "change_90d_pct": 2.56,
+      "ma_200": 7481.48
+    },
+    "NASDAQ": {
+      "name": "Nasdaq",
+      "last": 26430.89,
+      "change_7d_pct": -2.84,
+      "change_30d_pct": -0.35,
+      "change_90d_pct": 2.88,
+      "ma_200": 25886.14
+    },
+    "DXY": {
+      "name": "Dólar DXY",
+      "last": 102.0,
+      "change_7d_pct": -0.18,
+      "change_30d_pct": 1.78,
+      "change_90d_pct": 0.85,
+      "ma_200": 99.95
+    },
+    "IGV": {
+      "name": "iShares Expanded Tech-Software ETF",
+      "last": 105.99,
+      "change_7d_pct": -4.5,
+      "change_30d_pct": 1.57,
+      "change_90d_pct": 19.06,
+      "ma_200": 96.01
+    }
+  },
+  "fear_greed": {
+    "value": 59,
+    "classification": "Greed"
+  },
   "insights": [
     {
-      "title": "Falha de atualização",
-      "text": "Verifique logs do GitHub Actions e conectividade das fontes."
+      "title": "Regime misto de correlação",
+      "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
+    },
+    {
+      "title": "Dólar em alta pressiona risco",
+      "text": "DXY subindo em 30 dias costuma reduzir o apetite por cripto e tecnologia. Longs exigem mais confirmação."
+    },
+    {
+      "title": "Fear & Greed: 59 — Greed",
+      "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
     }
   ]
 }
