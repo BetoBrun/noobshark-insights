@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-10-23T04:39:45.858733+00:00",
-  "updated_at_brt": "23/10/2026 01:39",
+  "updated_at": "2026-10-23T09:59:04.104515+00:00",
+  "updated_at_brt": "23/10/2026 06:59",
   "headline": "Semáforo Amarelo: Neutro com cautela",
-  "executive_summary": "O modelo classifica o mercado como neutro com cautela. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
+  "executive_summary": "O modelo classifica o mercado como neutro com cautela. O regime atual indica btc como tech/growth, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
     "color": "yellow",
     "label": "Amarelo",
     "text": "Mercado misto. Priorizar confirmação, menor tamanho e evitar alavancagem excessiva."
   },
   "model_posture": "Neutro com cautela",
-  "market_regime": "BTC em regime misto",
+  "market_regime": "BTC como tech/growth",
   "btc_regime": "BTC construtivo",
   "altseason_regime": "Altcoins em preparação",
   "scores": {
-    "global_risk": 56.0,
-    "btc_cycle": 60.0,
-    "altseason_window": 49.0,
-    "tech_correlation": 0.3662
+    "global_risk": 58.0,
+    "btc_cycle": 62.0,
+    "altseason_window": 51.0,
+    "tech_correlation": 0.5105
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.416,
-      "SPX": 0.3369,
-      "DXY": -0.296,
-      "NASDAQ": 0.2994,
-      "IGV": 0.4622
+      "GOLD": 0.5196,
+      "SPX": 0.5324,
+      "DXY": -0.2114,
+      "NASDAQ": 0.542,
+      "IGV": 0.4571
     },
     "series": [
       {
@@ -1294,46 +1294,46 @@
       },
       {
         "date": "2026-10-22",
-        "gold": 0.4323,
-        "spx": 0.4219,
-        "dxy": -0.3834,
-        "nasdaq": 0.3792,
-        "igv": 0.4277
+        "gold": 0.5496,
+        "spx": 0.5648,
+        "dxy": -0.2847,
+        "nasdaq": 0.5655,
+        "igv": 0.3961
       },
       {
         "date": "2026-10-23",
-        "gold": 0.416,
-        "spx": 0.3369,
-        "dxy": -0.296,
-        "nasdaq": 0.2994,
-        "igv": 0.4622
+        "gold": 0.5196,
+        "spx": 0.5324,
+        "dxy": -0.2114,
+        "nasdaq": 0.542,
+        "igv": 0.4571
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 81602.92,
-      "change_7d_pct": 0.27,
-      "change_30d_pct": -3.29,
-      "change_90d_pct": 24.89,
-      "ma_200": 72872.73
+      "last": 81565.24,
+      "change_7d_pct": 0.22,
+      "change_30d_pct": -3.33,
+      "change_90d_pct": 24.83,
+      "ma_200": 72859.04
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 2397.12,
-      "change_7d_pct": -0.11,
-      "change_30d_pct": -10.8,
-      "change_90d_pct": 22.71,
-      "ma_200": 2156.53
+      "last": 2396.26,
+      "change_7d_pct": -0.15,
+      "change_30d_pct": -10.83,
+      "change_90d_pct": 22.67,
+      "ma_200": 2156.11
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 4020.8,
-      "change_7d_pct": -3.83,
-      "change_30d_pct": -6.45,
-      "change_90d_pct": -1.23,
-      "ma_200": 4381.03
+      "last": 4039.7,
+      "change_7d_pct": -3.38,
+      "change_30d_pct": -6.01,
+      "change_90d_pct": -0.76,
+      "ma_200": 4381.12
     },
     "SPX": {
       "name": "S&P 500",
@@ -1353,10 +1353,10 @@
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 101.66,
-      "change_7d_pct": -0.17,
-      "change_30d_pct": 0.37,
-      "change_90d_pct": 0.19,
+      "last": 101.72,
+      "change_7d_pct": -0.11,
+      "change_30d_pct": 0.43,
+      "change_90d_pct": 0.25,
       "ma_200": 99.98
     },
     "IGV": {
@@ -1374,8 +1374,8 @@
   },
   "insights": [
     {
-      "title": "Regime misto de correlação",
-      "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
+      "title": "BTC conectado a tecnologia/growth",
+      "text": "A correlação com SPX, Nasdaq e IGV está positiva. A leitura de juros, liquidez e índices americanos deve pesar mais no curto prazo."
     },
     {
       "title": "Fear & Greed: 50 — Neutral",
