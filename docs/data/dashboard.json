@@ -1,112 +1,34 @@
 {
-  "updated_at": "2026-11-24T10:51:10.189244+00:00",
-  "updated_at_brt": "24/11/2026 07:51",
-  "headline": "Semáforo Vermelho: Defensivo",
-  "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc em regime misto, enquanto o sinalizador de altcoins aponta: altcoins fechadas. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
+  "updated_at": "2026-11-24T21:06:51.879896+00:00",
+  "updated_at_brt": "24/11/2026 18:06",
+  "headline": "Dados indisponíveis no momento",
+  "executive_summary": "O script não conseguiu atualizar as fontes. Erro: não foi possível obter preços suficientes",
   "traffic_light": {
-    "color": "red",
-    "label": "Vermelho",
-    "text": "Ambiente defensivo. Reduzir impulso, proteger capital e aguardar melhora da estrutura."
+    "color": "yellow",
+    "label": "Amarelo",
+    "text": "Falha de dados. Não tomar decisão com base nesta leitura."
   },
-  "model_posture": "Defensivo",
-  "market_regime": "BTC em regime misto",
-  "btc_regime": "BTC em transição",
-  "altseason_regime": "Altcoins fechadas",
+  "model_posture": "Dados insuficientes",
+  "market_regime": "Indefinido",
+  "btc_regime": "Indefinido",
+  "altseason_regime": "Indefinido",
   "scores": {
-    "global_risk": 35.0,
-    "btc_cycle": 42.0,
-    "altseason_window": 39.0,
-    "tech_correlation": 0.0
+    "global_risk": 50,
+    "btc_cycle": 50,
+    "altseason_window": 50,
+    "tech_correlation": 0
   },
   "correlations": {
     "window": 30,
-    "current": {
-      "GOLD": null,
-      "SPX": null,
-      "DXY": null,
-      "NASDAQ": null,
-      "IGV": null
-    },
+    "current": {},
     "series": []
   },
-  "markets": {
-    "BTC": {
-      "name": "Bitcoin",
-      "last": null,
-      "change_7d_pct": null,
-      "change_30d_pct": null,
-      "change_90d_pct": null,
-      "ma_200": null
-    },
-    "ETH": {
-      "name": "Ethereum",
-      "last": 1674.86,
-      "change_7d_pct": -5.63,
-      "change_30d_pct": -27.82,
-      "change_90d_pct": -33.28,
-      "ma_200": 2116.2
-    },
-    "GOLD": {
-      "name": "Ouro",
-      "last": 3624.1,
-      "change_7d_pct": -3.15,
-      "change_30d_pct": -10.26,
-      "change_90d_pct": -22.3,
-      "ma_200": 4248.18
-    },
-    "SPX": {
-      "name": "S&P 500",
-      "last": 7237.17,
-      "change_7d_pct": -1.18,
-      "change_30d_pct": -5.73,
-      "change_90d_pct": -6.39,
-      "ma_200": 7562.31
-    },
-    "NASDAQ": {
-      "name": "Nasdaq",
-      "last": 24089.56,
-      "change_7d_pct": -1.39,
-      "change_30d_pct": -7.95,
-      "change_90d_pct": -9.24,
-      "ma_200": 26064.04
-    },
-    "DXY": {
-      "name": "Dólar DXY",
-      "last": 104.16,
-      "change_7d_pct": 0.29,
-      "change_30d_pct": 2.16,
-      "change_90d_pct": 5.04,
-      "ma_200": 100.67
-    },
-    "IGV": {
-      "name": "iShares Expanded Tech-Software ETF",
-      "last": 95.26,
-      "change_7d_pct": -1.73,
-      "change_30d_pct": -14.48,
-      "change_90d_pct": -13.65,
-      "ma_200": 99.35
-    }
-  },
-  "fear_greed": {
-    "value": 11,
-    "classification": "Extreme Fear"
-  },
+  "markets": {},
+  "fear_greed": null,
   "insights": [
     {
-      "title": "Regime misto de correlação",
-      "text": "As correlações não apontam uma dominância clara. O modelo deve tratar sinais isolados com cautela."
-    },
-    {
-      "title": "Dólar em alta pressiona risco",
-      "text": "DXY subindo em 30 dias costuma reduzir o apetite por cripto e tecnologia. Longs exigem mais confirmação."
-    },
-    {
-      "title": "Fear & Greed: 11 — Extreme Fear",
-      "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
-    },
-    {
-      "title": "Altseason ainda seletiva",
-      "text": "A janela de altcoins não está claramente aberta. Priorizar líderes, força relativa e stops técnicos."
+      "title": "Falha de atualização",
+      "text": "Verifique logs do GitHub Actions e conectividade das fontes."
     }
   ]
 }
