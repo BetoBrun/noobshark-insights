@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T19:33:40.700448+00:00",
-  "updated_at_brt": "26/11/2026 16:33",
+  "updated_at": "2026-11-27T02:47:11.959060+00:00",
+  "updated_at_brt": "26/11/2026 23:47",
   "headline": "Semáforo Vermelho: Defensivo",
   "executive_summary": "O modelo classifica o mercado como defensivo. O regime atual indica btc como tech/growth, enquanto o sinalizador de altcoins aponta: altcoins em preparação. A postura recomendada é operar por processo: confirmação, stop definido, tamanho controlado e sem promessa de direção.",
   "traffic_light": {
@@ -14,28 +14,20 @@
   "altseason_regime": "Altcoins em preparação",
   "scores": {
     "global_risk": 34.0,
-    "btc_cycle": 26.0,
+    "btc_cycle": 28.0,
     "altseason_window": 41.0,
-    "tech_correlation": 0.5052
+    "tech_correlation": 0.5004
   },
   "correlations": {
     "window": 30,
     "current": {
-      "GOLD": 0.4078,
-      "SPX": 0.5123,
-      "DXY": -0.1149,
-      "NASDAQ": 0.5181,
-      "IGV": 0.4852
+      "GOLD": 0.4005,
+      "SPX": 0.5061,
+      "DXY": -0.1133,
+      "NASDAQ": 0.5129,
+      "IGV": 0.4823
     },
     "series": [
-      {
-        "date": "2026-06-20",
-        "gold": 0.3406,
-        "spx": 0.3553,
-        "dxy": -0.4551,
-        "nasdaq": 0.3639,
-        "igv": 0.2656
-      },
       {
         "date": "2026-06-21",
         "gold": 0.3377,
@@ -1302,74 +1294,82 @@
       },
       {
         "date": "2026-11-26",
-        "gold": 0.4078,
-        "spx": 0.5123,
-        "dxy": -0.1149,
-        "nasdaq": 0.5181,
-        "igv": 0.4852
+        "gold": 0.3964,
+        "spx": 0.5126,
+        "dxy": -0.1206,
+        "nasdaq": 0.5184,
+        "igv": 0.4849
+      },
+      {
+        "date": "2026-11-27",
+        "gold": 0.4005,
+        "spx": 0.5061,
+        "dxy": -0.1133,
+        "nasdaq": 0.5129,
+        "igv": 0.4823
       }
     ]
   },
   "markets": {
     "BTC": {
       "name": "Bitcoin",
-      "last": 60556.28,
-      "change_7d_pct": 2.99,
-      "change_30d_pct": -25.49,
-      "change_90d_pct": -22.61,
-      "ma_200": 71920.55
+      "last": 61324.75,
+      "change_7d_pct": 2.05,
+      "change_30d_pct": -21.15,
+      "change_90d_pct": -21.04,
+      "ma_200": 71817.64
     },
     "ETH": {
       "name": "Ethereum",
-      "last": 1702.44,
-      "change_7d_pct": 5.13,
-      "change_30d_pct": -27.79,
-      "change_90d_pct": -30.73,
-      "ma_200": 2109.7
+      "last": 1721.45,
+      "change_7d_pct": 2.33,
+      "change_30d_pct": -23.47,
+      "change_90d_pct": -28.81,
+      "ma_200": 2106.55
     },
     "GOLD": {
       "name": "Ouro",
-      "last": 3593.3,
-      "change_7d_pct": 2.22,
-      "change_30d_pct": -11.31,
-      "change_90d_pct": -20.68,
-      "ma_200": 4236.21
+      "last": 3654.4,
+      "change_7d_pct": 3.95,
+      "change_30d_pct": -9.35,
+      "change_90d_pct": -19.33,
+      "ma_200": 4231.14
     },
     "SPX": {
       "name": "S&P 500",
       "last": 7182.78,
       "change_7d_pct": 3.94,
-      "change_30d_pct": -7.25,
+      "change_30d_pct": -6.96,
       "change_90d_pct": -6.86,
-      "ma_200": 7559.97
+      "ma_200": 7558.82
     },
     "NASDAQ": {
       "name": "Nasdaq",
       "last": 23585.8,
       "change_7d_pct": 4.28,
-      "change_30d_pct": -11.16,
+      "change_30d_pct": -9.93,
       "change_90d_pct": -10.67,
-      "ma_200": 26035.65
+      "ma_200": 26022.21
     },
     "DXY": {
       "name": "Dólar DXY",
-      "last": 103.79,
-      "change_7d_pct": -0.02,
-      "change_30d_pct": 1.56,
-      "change_90d_pct": 4.1,
-      "ma_200": 100.72
+      "last": 103.68,
+      "change_7d_pct": -0.13,
+      "change_30d_pct": 1.61,
+      "change_90d_pct": 3.99,
+      "ma_200": 100.75
     },
     "IGV": {
       "name": "iShares Expanded Tech-Software ETF",
       "last": 95.02,
       "change_7d_pct": 3.67,
-      "change_30d_pct": -15.09,
+      "change_30d_pct": -11.99,
       "change_90d_pct": -13.22,
-      "ma_200": 99.39
+      "ma_200": 99.42
     }
   },
   "fear_greed": {
-    "value": 11,
+    "value": 12,
     "classification": "Extreme Fear"
   },
   "insights": [
@@ -1382,7 +1382,7 @@
       "text": "DXY subindo em 30 dias costuma reduzir o apetite por cripto e tecnologia. Longs exigem mais confirmação."
     },
     {
-      "title": "Fear & Greed: 11 — Extreme Fear",
+      "title": "Fear & Greed: 12 — Extreme Fear",
       "text": "Sentimento extremo deve ser lido como filtro de risco, não como gatilho isolado de compra ou venda."
     },
     {
